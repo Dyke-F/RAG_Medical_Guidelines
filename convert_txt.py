@@ -41,7 +41,7 @@ def store_formatted_txt(json_data, file_path, max_line_length=80):
             f.write("\n\n")
 
 def main():
-    files = find_json_files("/Users/dykeferber/Desktop/Guideline_LLM_Paper/Vector_LLM_for_Medical_QA-main/NaiveGPT4Results")
+    files = find_json_files("path_to_your_results")
     for file_path in files:
         json_data = read_json_file(file_path)
         store_formatted_txt(json_data, Path(file_path.stem + "_unstructured.txt"))
