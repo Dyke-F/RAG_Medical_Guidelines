@@ -1,0 +1,16 @@
+documents_dir: /Users/dykeferber/Desktop/Guideline_LLM_Paper/Vector_LLM_for_Medical_QA-main/Data/PancreaticCancer
+model_name: gpt-4
+chunk_size: 500
+overlap: 100
+
+topics:
+  - staging procedures
+  # - resectibility criteria
+  # - lymphadenectomy
+  # - role of adjuvant chemotherapy
+  # - adjuvant chemoradiation
+  # - management of borderline resectable tumors
+  # - treatment recommendations in the metastatic situation
+  # - use of erlotinib and other targeted therapies
+  # - use cases of FOLFIRINOX and modified FOLFIRINOX (mFOLFIRINOX)
+  # - role of PARP inhibitors

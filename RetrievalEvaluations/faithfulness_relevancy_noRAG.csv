@@ -1,0 +1,547 @@
+,query,response,faithfulness,relevancy
+0,management of potentially curative resectable liver metastases,"Comparison of management of potentially curable resectable liver metastases in Metastatic Colorectal Cancer (mCRC) between ASCO and ESMO:
+
+Similarities:
+- Both guidelines recommend surgical resection as the primary treatment for resectable liver metastases in mCRC. (ASCO, 2020; ESMO, 2020)
+- Both guidelines suggest considering perioperative chemotherapy (FOLFOX or FOLFIRI) for patients with resectable liver metastases. (ASCO, 2020; ESMO, 2020)
+- Both guidelines recommend systemic therapy for patients who are not candidates for curative resection. (ASCO, 2020; ESMO, 2020)
+
+Differences:
+- ASCO guidelines recommend considering adjuvant chemotherapy for all patients after resection of liver metastases, while ESMO guidelines suggest adjuvant chemotherapy only for high-risk patients. (ASCO, 2020; ESMO, 2020)
+- ESMO guidelines recommend considering liver transplantation for selected patients with unresectable liver metastases, while ASCO guidelines do not mention liver transplantation. (ASCO, 2020; ESMO, 2020)
+
+Clinical Trials:
+- The EORTC 40983 trial, referenced by both guidelines, showed a survival benefit for perioperative chemotherapy with FOLFOX4 compared to surgery alone in patients with resectable liver metastases from mCRC. (EORTC 40983, 2008)
+- The New EPOC trial, referenced by ASCO, showed no benefit for adding cetuximab to perioperative chemotherapy in patients with resectable liver metastases from mCRC. (New EPOC, 2014)
+
+Summary:
+Both ASCO and ESMO guidelines recommend surgical resection and perioperative chemotherapy for resectable liver metastases in mCRC. However, there are differences in the recommendations for adjuvant chemotherapy and liver transplantation. The EORTC 40983 and New EPOC trials provide important evidence for these recommendations.
+
+References:
+- ASCO Clinical Practice Guideline Update on Systemic Therapy for Stage IV Non–Small-Cell Lung Cancer. J Clin Oncol. 2020.
+- ESMO Consensus Guidelines for the management of patients with metastatic colorectal cancer. Ann Oncol. 2020.
+- Perioperative FOLFOX4 chemotherapy and surgery versus surgery alone for resectable liver metastases from colorectal cancer (EORTC 40983): long-term results of a randomised, controlled, phase 3 trial. Lancet Oncol. 2008.
+- Addition of cetuximab to chemotherapy as first-line treatment for KRAS wild-type metastatic colorectal cancer: pooled analysis of the CRYSTAL and OPUS randomised clinical trials. Eur J Cancer. 2012.",True,True
+1,treatment options for oligometastatic disease,"Comparison of Metastatic Colorectal Cancer (mCRC) treatment options for oligometastatic disease between ASCO and ESMO:
+
+Similarities:
+- Surgical Resection: Both guidelines recommend surgical resection of metastases if feasible, especially in patients with limited metastatic disease (oligometastatic). This is based on several studies showing improved survival with resection of metastases (Fong et al., 1999; Choti et al., 2002).
+- Systemic Therapy: Both guidelines recommend systemic therapy before and/or after surgery. The choice of systemic therapy depends on various factors including patient's performance status, comorbidities, and tumor characteristics (ASCO, 2020; ESMO, 2020).
+- Multidisciplinary Approach: Both guidelines emphasize the importance of a multidisciplinary approach in the management of mCRC, involving medical oncologists, surgeons, radiologists, and pathologists (ASCO, 2020; ESMO, 2020).
+
+Differences:
+- Radiotherapy: ESMO guidelines mention the use of radiotherapy (stereotactic body radiotherapy or radiofrequency ablation) as an alternative to surgery in patients with oligometastatic disease who are not surgical candidates (ESMO, 2020). ASCO guidelines do not specifically mention radiotherapy in this context (ASCO, 2020).
+- Follow-up: ESMO guidelines provide specific recommendations for follow-up after treatment of oligometastatic disease, including regular imaging and carcinoembryonic antigen (CEA) monitoring (ESMO, 2020). ASCO guidelines do not provide specific recommendations for follow-up in this context (ASCO, 2020).
+
+In summary, both ASCO and ESMO guidelines recommend surgical resection and systemic therapy for the treatment of oligometastatic mCRC. However, there are some differences in the recommendations regarding the use of radiotherapy and follow-up after treatment.
+
+References:
+- Fong Y, Fortner J, Sun RL, Brennan MF, Blumgart LH. Clinical score for predicting recurrence after hepatic resection for metastatic colorectal cancer: analysis of 1001 consecutive cases. Ann Surg. 1999;230(3):309-318.
+- Choti MA, Sitzmann JV, Tiburi MF, et al. Trends in long-term survival following liver resection for hepatic colorectal metastases. Ann Surg. 2002;235(6):759-766.
+- American Society of Clinical Oncology (ASCO). Management of Metastatic Colorectal Cancer. ASCO Clinical Practice Guideline. 2020.
+- European Society for Medical Oncology (ESMO). Management of Metastatic Colorectal Cancer. ESMO Clinical Practice Guideline. 2020.",True,True
+2,the use cases for SIRT therapy,"Comparison of Selective Internal Radiation Therapy (SIRT) use in Metastatic Colorectal Cancer (mCRC) between ASCO and ESMO:
+
+Similarities:
+- Both guidelines acknowledge SIRT as a treatment option for mCRC patients with liver-dominant disease who have failed or are not candidates for other systemic therapies. 
+- Both guidelines suggest that SIRT should be considered as a part of a multidisciplinary approach to patient care.
+- Both guidelines do not recommend SIRT as a first-line treatment for mCRC.
+
+Differences:
+- ASCO guidelines do not provide specific recommendations on the use of SIRT in combination with chemotherapy, while ESMO guidelines suggest that SIRT can be used in combination with chemotherapy in certain cases.
+- ESMO guidelines provide more detailed recommendations on patient selection for SIRT, suggesting it for patients with good performance status, liver-dominant disease, and limited extrahepatic disease.
+
+Clinical Trials:
+- The SIRFLOX trial, referenced in both guidelines, showed that adding SIRT to first-line chemotherapy did not improve overall survival in mCRC patients, but did improve progression-free survival in the liver.
+- The FOXFIRE trial, referenced in the ESMO guidelines, showed no overall survival benefit with the addition of SIRT to first-line chemotherapy.
+
+Summary:
+Both ASCO and ESMO guidelines recognize SIRT as a treatment option for mCRC patients with liver-dominant disease who have failed or are not candidates for other systemic therapies. However, ESMO provides more detailed recommendations on patient selection and the use of SIRT in combination with chemotherapy. Both guidelines reference the SIRFLOX and FOXFIRE trials, which showed no overall survival benefit with the addition of SIRT to first-line chemotherapy.
+
+References:
+- American Society of Clinical Oncology. (2018). Management of Metastatic Colorectal Cancer. ASCO Clinical Practice Guideline.
+- European Society for Medical Oncology. (2016). Management of Metastatic Colorectal Cancer. ESMO Clinical Practice Guidelines.
+- SIRFLOX: Randomized Phase III Trial Comparing First-Line mFOLFOX6 (Plus or Minus Bevacizumab) Versus mFOLFOX6 (Plus or Minus Bevacizumab) Plus Selective Internal Radiation Therapy in Patients With Metastatic Colorectal Cancer. Journal of Clinical Oncology, 34(15), 1723-1731.
+- FOXFIRE protocol: an open-label, randomised, phase III trial of 5-fluorouracil, oxaliplatin and folinic acid (OxMdG) with or without interventional Selective Internal Radiation Therapy (SIRT) as first-line treatment for patients with unresectable liver-only or liver-dominant metastatic colorectal cancer. BMC Cancer, 14, 497.",True,True
+3,triplet versus doublet chemotherapy,"Comparison of triplet versus doublet chemotherapy in Metastatic Colorectal Cancer (mCRC) between ASCO and ESMO:
+
+Similarities:
+- Both guidelines agree that doublet chemotherapy (FOLFOX or FOLFIRI) is the standard first-line treatment for mCRC patients who are not candidates for intensive therapy. [1][2]
+- Both guidelines acknowledge that triplet chemotherapy (FOLFOXIRI) can be considered for selected patients with good performance status and no significant comorbidities. [1][2]
+- Both guidelines reference the TRIBE trial, which showed a survival benefit for FOLFOXIRI plus bevacizumab compared to FOLFOX or FOLFIRI plus bevacizumab. [3]
+
+Differences:
+- The ESMO guidelines specifically mention that FOLFOXIRI should be considered for patients with BRAF V600E mutated tumors, while the ASCO guidelines do not make this distinction. [1][2]
+- The ASCO guidelines emphasize the increased toxicity of triplet therapy and suggest that it should be reserved for patients who need a rapid response, while the ESMO guidelines do not specifically mention this. [1][2]
+
+In summary, both ASCO and ESMO guidelines agree on the use of doublet chemotherapy as the standard first-line treatment for mCRC and the selective use of triplet chemotherapy for patients with good performance status. However, there are differences in the specific patient populations that they recommend for triplet therapy, with ESMO recommending it for patients with BRAF V600E mutated tumors and ASCO reserving it for patients who need a rapid response.
+
+References:
+1. ASCO Clinical Practice Guidelines: Systemic Therapy for Stage IV Non–Small-Cell Lung Cancer. Journal of Clinical Oncology, 2017.
+2. ESMO Clinical Practice Guidelines: Metastatic colorectal cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology, 2016.
+3. TRIBE trial: FOLFOXIRI plus bevacizumab versus FOLFIRI plus bevacizumab as first-line treatment of patients with metastatic colorectal cancer: updated overall survival and molecular subgroup analyses of the open-label, phase 3 TRIBE study. The Lancet Oncology, 2015.",True,True
+4,the role of anti EGFR therapies,"Comparison of the role of anti-EGFR therapies in Metastatic Colorectal Cancer (mCRC) between ASCO and ESMO:
+
+Similarities:
+- Patient Selection: Both ASCO and ESMO recommend anti-EGFR therapies for patients with RAS wild-type mCRC. (ASCO, 2020; ESMO, 2020)
+- First-line Treatment: Both guidelines suggest anti-EGFR monoclonal antibodies (cetuximab or panitumumab) in combination with chemotherapy as a first-line treatment option for RAS wild-type mCRC. (ASCO, 2020; ESMO, 2020)
+- Clinical Trials: Both guidelines reference the PRIME and CRYSTAL trials, which demonstrated improved progression-free survival and overall survival with the addition of panitumumab and cetuximab, respectively, to chemotherapy in RAS wild-type mCRC. (Douillard et al., 2010; Van Cutsem et al., 2011)
+
+Differences:
+- Second-line Treatment: ASCO suggests anti-EGFR therapy as a second-line treatment option for patients who have not received it as first-line therapy, while ESMO does not explicitly recommend this. (ASCO, 2020; ESMO, 2020)
+- BRAF Mutations: ESMO guidelines suggest considering anti-EGFR therapy in combination with BRAF inhibitors for patients with BRAF V600E-mutated mCRC, while ASCO does not provide a specific recommendation for this patient population. (ASCO, 2020; ESMO, 2020)
+
+In summary, both ASCO and ESMO guidelines recommend anti-EGFR therapies for RAS wild-type mCRC, with both suggesting it as a first-line treatment option in combination with chemotherapy. However, there are differences in their recommendations for second-line therapy and for patients with BRAF V600E mutations.
+
+References:
+- ASCO. (2020). Clinical Practice Guidelines: Metastatic Colorectal Cancer.
+- ESMO. (2020). Clinical Practice Guidelines: Metastatic Colorectal Cancer.
+- Douillard JY, et al. (2010). Randomized, phase III trial of panitumumab with infusional fluorouracil, leucovorin, and oxaliplatin (FOLFOX4) versus FOLFOX4 alone as first-line treatment in patients with previously untreated metastatic colorectal cancer: the PRIME study. J Clin Oncol. 28(31):4697-705.
+- Van Cutsem E, et al. (2011). Cetuximab plus irinotecan, fluorouracil, and leucovorin as first-line treatment for metastatic colorectal cancer: updated analysis of overall survival according to tumor KRAS and BRAF mutation status. J Clin Oncol. 29(15):2011-9.",True,True
+5,anti EGFR in comparison to anti VEGF treatments,"Comparison of anti-EGFR and anti-VEGF treatments for Metastatic Colorectal Cancer (mCRC) between ASCO and ESMO:
+
+Similarities:
+- Patient Selection: Both ASCO and ESMO recommend anti-EGFR therapy for patients with RAS wild-type mCRC. Anti-VEGF therapy is recommended for all patients regardless of RAS status. (ASCO, 2020; ESMO, 2020)
+- First-line Therapy: Both guidelines recommend anti-EGFR (cetuximab or panitumumab) or anti-VEGF (bevacizumab) as part of the first-line therapy in combination with chemotherapy (FOLFOX, FOLFIRI, or CAPOX). (ASCO, 2020; ESMO, 2020)
+- Clinical Trials: Both guidelines reference the FIRE-3 and PEAK trials, which showed similar overall survival between anti-EGFR and anti-VEGF therapies in first-line treatment. (ASCO, 2020; ESMO, 2020)
+
+Differences:
+- Second-line Therapy: ASCO recommends anti-EGFR therapy for patients who have not received it in the first-line setting, while ESMO suggests considering anti-VEGF therapy (aflibercept or ramucirumab) in combination with FOLFIRI for patients who received first-line bevacizumab. (ASCO, 2020; ESMO, 2020)
+- Clinical Trials: ESMO references the VELOUR trial, which showed improved survival with aflibercept in combination with FOLFIRI in the second-line setting. ASCO does not specifically reference this trial. (ESMO, 2020)
+
+Summary: Both ASCO and ESMO guidelines show a high degree of similarity in their recommendations for the use of anti-EGFR and anti-VEGF therapies in mCRC, particularly in the first-line setting. Differences are mainly observed in the second-line setting, with ESMO suggesting the consideration of anti-VEGF therapy, while ASCO recommends anti-EGFR therapy for those who have not received it in the first-line setting.
+
+References:
+- American Society of Clinical Oncology (ASCO). (2020). Clinical Practice Guidelines on the Treatment of Colorectal Cancer.
+- European Society for Medical Oncology (ESMO). (2020). Clinical Practice Guidelines on the Treatment of Colorectal Cancer.",True,True
+6,uncertainties and open questions in the management of the disease,"I'm sorry, but as an AI, I don't have the ability to access real-time databases or guidelines to provide a line-by-line comparison of the ASCO and ESMO guidelines on Metastatic Colorectal Cancer (mCRC). However, I can provide a general comparison based on the information I was trained on.
+
+Comparison of Metastatic Colorectal Cancer (mCRC) management uncertainties and open questions between ASCO and ESMO:
+
+Similarities:
+- Both guidelines acknowledge the need for more research on the optimal sequencing of therapies in mCRC. 
+- Both guidelines highlight the uncertainty regarding the best treatment approach for patients with BRAF V600E-mutated mCRC.
+- Both guidelines emphasize the need for more research on the role of liquid biopsy in mCRC management.
+
+Differences:
+- The ESMO guidelines may place more emphasis on the need for research on the role of immunotherapy in mCRC, particularly in patients with microsatellite instability-high (MSI-H) tumors.
+- The ASCO guidelines may focus more on the uncertainty regarding the optimal duration of adjuvant chemotherapy in mCRC.
+
+Please note that this comparison is based on the information I was trained on and may not reflect the most current guidelines. For the most accurate and up-to-date information, please refer to the ASCO and ESMO guidelines directly.",True,True
+7,HIPEC,"Comparison of Hyperthermic Intraperitoneal Chemotherapy (HIPEC) in Metastatic Colorectal Cancer (mCRC) between ASCO and ESMO:
+
+Similarities:
+- Both guidelines do not recommend HIPEC as a standard treatment for mCRC. 
+- Both guidelines suggest that HIPEC may be considered in selected patients with peritoneal metastases from colorectal cancer, but only within the context of a clinical trial or at a specialized center with expertise in this procedure. 
+
+Differences:
+- The ESMO guidelines provide a more detailed discussion on the use of HIPEC, stating that it may be considered in patients with limited peritoneal disease and good performance status, and that it should be performed by experienced surgeons and oncologists in specialized centers. 
+- The ASCO guidelines do not provide specific criteria for patient selection or details on the expertise required for the procedure.
+
+Clinical Trials:
+- The PRODIGE 7 trial, a randomized phase III trial, did not show a survival benefit with the addition of HIPEC to cytoreductive surgery in patients with colorectal peritoneal metastases. This trial is referenced in both guidelines.
+
+Summary:
+Both ASCO and ESMO guidelines do not recommend HIPEC as a standard treatment for mCRC. However, both suggest that it may be considered in selected patients within the context of a clinical trial or at a specialized center. The ESMO guidelines provide more detailed criteria for patient selection and the expertise required for the procedure. The PRODIGE 7 trial, which did not show a survival benefit with HIPEC, is referenced in both guidelines.
+
+References:
+- American Society of Clinical Oncology (ASCO) Clinical Practice Guidelines on the Treatment of Metastatic Colorectal Cancer.
+- European Society for Medical Oncology (ESMO) Clinical Practice Guidelines for diagnosis, treatment and follow-up of Metastatic Colorectal Cancer.
+- Quenet F, Elias D, Roca L, et al. A UNICANCER phase III trial of hyperthermic intra-peritoneal chemotherapy (HIPEC) for colorectal peritoneal carcinomatosis (PC): PRODIGE 7. J Clin Oncol. 2018;36(18_suppl):LBA3503-LBA3503.",True,True
+8,treatment options for BRAF V600E mutated tumors,"Comparison of Metastatic Colorectal Cancer (mCRC) treatment options for BRAF V600E mutated tumors between ASCO and ESMO:
+
+Similarities:
+- Both guidelines recommend targeted therapy for BRAF V600E mutated mCRC.
+    - ASCO and ESMO both recommend the use of BRAF inhibitors in combination with other agents for patients with BRAF V600E mutated mCRC. This is based on the BEACON CRC trial which showed improved overall survival with the combination of encorafenib, binimetinib, and cetuximab compared to standard therapy (ASCO: Allegra et al., 2020; ESMO: Van Cutsem et al., 2020).
+- Both guidelines recommend chemotherapy as a treatment option.
+    - Both ASCO and ESMO recommend FOLFOXIRI (folinic acid, fluorouracil, oxaliplatin, and irinotecan) plus bevacizumab as a first-line treatment option for patients with BRAF V600E mutated mCRC (ASCO: Allegra et al., 2020; ESMO: Van Cutsem et al., 2020).
+
+Differences:
+- Differences in the use of immunotherapy.
+    - ASCO does not specifically recommend immunotherapy for patients with BRAF V600E mutated mCRC (ASCO: Allegra et al., 2020).
+    - ESMO suggests considering immunotherapy for patients with BRAF V600E mutated mCRC who have microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) tumors (ESMO: Van Cutsem et al., 2020).
+
+In summary, both ASCO and ESMO guidelines recommend targeted therapy and chemotherapy for patients with BRAF V600E mutated mCRC. However, there is a discrepancy in the use of immunotherapy, with ESMO suggesting its consideration for patients with MSI-H or dMMR tumors.
+
+References:
+- Allegra CJ, Rumble RB, Hamilton SR, et al. Extended RAS Gene Mutation Testing in Metastatic Colorectal Carcinoma to Predict Response to Anti–Epidermal Growth Factor Receptor Monoclonal Antibody Therapy: American Society of Clinical Oncology Provisional Clinical Opinion Update 2015. J Clin Oncol. 2016;34(2):179-185.
+- Van Cutsem E, Cervantes A, Adam R, et al. ESMO consensus guidelines for the management of patients with metastatic colorectal cancer. Ann Oncol. 2016;27(8):1386-1422.",True,True
+9,first line treatment in metastatic MSI tumors,"Comparison of first line treatment in metastatic MSI tumors in Metastatic Colorectal Cancer (mCRC) between ASCO and ESMO:
+
+Similarities:
+- Immunotherapy: Both ASCO and ESMO recommend immunotherapy as a first-line treatment for patients with metastatic MSI-H/dMMR colorectal cancer. Pembrolizumab and Nivolumab are the preferred agents. (ASCO, 2020; ESMO, 2020)
+- Clinical Trials: Both guidelines emphasize the importance of clinical trials in determining the best course of treatment. The CheckMate-142 and KEYNOTE-177 trials are specifically mentioned in both guidelines. (ASCO, 2020; ESMO, 2020)
+
+Differences:
+- Chemotherapy: ASCO does not explicitly recommend chemotherapy as a first-line treatment for metastatic MSI-H/dMMR colorectal cancer. However, ESMO suggests considering chemotherapy (FOLFOX or FOLFIRI) in combination with a targeted agent (bevacizumab, cetuximab, or panitumumab) for patients who are not suitable for immunotherapy. (ASCO, 2020; ESMO, 2020)
+- Patient Selection: ESMO provides more detailed recommendations on patient selection for immunotherapy, suggesting it for patients with a good performance status (ECOG 0-1) and adequate organ function. ASCO does not provide specific criteria for patient selection. (ASCO, 2020; ESMO, 2020)
+
+Summary: Both ASCO and ESMO guidelines recommend immunotherapy as a first-line treatment for patients with metastatic MSI-H/dMMR colorectal cancer, with Pembrolizumab and Nivolumab as the preferred agents. Both guidelines also emphasize the importance of clinical trials. However, ESMO also suggests considering chemotherapy in combination with a targeted agent for patients who are not suitable for immunotherapy, and provides more detailed recommendations on patient selection for immunotherapy.
+
+References:
+- American Society of Clinical Oncology. (2020). Clinical Practice Guidelines: Metastatic Colorectal Cancer.
+- European Society for Medical Oncology. (2020). Clinical Practice Guidelines: Metastatic Colorectal Cancer.",True,True
+10,recommended treatment options for first line therapy in advanced tumors,"Comparison of first-line therapy recommendations for advanced Hepatocellular Carcinoma (HCC) between ASCO and ESMO:
+
+Similarities:
+- Systemic Therapy: Both ASCO and ESMO recommend systemic therapy as the first-line treatment for advanced HCC. Sorafenib and Lenvatinib are the preferred agents (ASCO, 2018; ESMO, 2018).
+- Clinical Trials: Both guidelines emphasize the importance of clinical trials. The SHARP trial (Sorafenib Hepatocellular Carcinoma Assessment Randomized Protocol) and the REFLECT trial (Lenvatinib vs. Sorafenib in First-Line Treatment of Patients With Unresectable Hepatocellular Carcinoma) are referenced in both guidelines (ASCO, 2018; ESMO, 2018).
+
+Differences:
+- Treatment Selection: ESMO guidelines provide more detailed recommendations on selecting between Sorafenib and Lenvatinib based on patient characteristics and comorbidities (ESMO, 2018). ASCO does not provide specific guidance on this matter (ASCO, 2018).
+- Follow-up: ESMO guidelines provide more detailed recommendations on follow-up and monitoring during treatment, including specific time intervals for imaging and biomarker testing (ESMO, 2018). ASCO guidelines do not provide specific recommendations on follow-up (ASCO, 2018).
+
+Summary: Both ASCO and ESMO guidelines recommend systemic therapy with Sorafenib or Lenvatinib as first-line treatment for advanced HCC and emphasize the importance of clinical trials. However, ESMO provides more detailed guidance on treatment selection and follow-up.
+
+References:
+- ASCO. (2018). Hepatocellular Carcinoma: ASCO Clinical Practice Guideline Update. Journal of Clinical Oncology.
+- ESMO. (2018). ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Hepatocellular Carcinoma. Annals of Oncology.",True,True
+11,precise recommendations and use cases of Atezolizumab + Bevacizumab,"Comparison of Hepatocellular Carcinoma (HCC) treatment recommendations with Atezolizumab + Bevacizumab between ASCO and ESMO:
+
+Similarities:
+- First-line treatment: Both ASCO and ESMO recommend Atezolizumab + Bevacizumab as a first-line treatment for patients with advanced or metastatic HCC who have not received prior systemic therapy and have Child-Pugh class A liver function. This recommendation is based on the results of the IMbrave150 trial, which showed improved overall survival and progression-free survival with Atezolizumab + Bevacizumab compared to Sorafenib [1,2].
+- Performance status: Both guidelines recommend this combination for patients with ECOG performance status 0-1 [1,2].
+
+Differences:
+- Specificity of recommendations: While both guidelines recommend this combination, ESMO provides more specific recommendations based on the presence of certain clinical features. For instance, ESMO suggests that Atezolizumab + Bevacizumab should be considered in patients with main portal vein invasion, but not in those with more than minimal baseline ascites [2].
+- Consideration of other treatments: ASCO suggests considering other first-line treatments such as Sorafenib or Lenvatinib in certain situations, while ESMO does not provide such alternatives in their guidelines [1,2].
+
+In summary, both ASCO and ESMO recommend Atezolizumab + Bevacizumab as a first-line treatment for advanced or metastatic HCC in patients with good performance status and Child-Pugh class A liver function. However, ESMO provides more specific recommendations based on certain clinical features, and ASCO suggests considering other treatments in certain situations.
+
+References:
+1. ASCO Clinical Practice Guideline on the Management of Hepatocellular Carcinoma.
+2. ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Hepatocellular Carcinoma.",True,True
+12,second line treatments,"Comparison of second line treatments for Hepatocellular Carcinoma (HCC) between ASCO and ESMO:
+
+Similarities:
+- Regorafenib: Both guidelines recommend Regorafenib as a second-line treatment for patients who have tolerated Sorafenib. This is based on the RESORCE trial, which showed improved overall survival with Regorafenib in patients who progressed on Sorafenib (ASCO, ESMO).
+- Cabozantinib: Both guidelines recommend Cabozantinib as a second-line treatment for patients who have previously received Sorafenib. This is based on the CELESTIAL trial, which showed improved overall survival with Cabozantinib in patients who progressed on Sorafenib (ASCO, ESMO).
+- Ramucirumab: Both guidelines recommend Ramucirumab for patients with AFP levels ≥400 ng/mL who have previously received Sorafenib. This is based on the REACH-2 trial, which showed improved overall survival with Ramucirumab in this patient population (ASCO, ESMO).
+
+Differences:
+- Nivolumab and Pembrolizumab: ASCO recommends Nivolumab and Pembrolizumab as second-line treatments for patients who have previously received Sorafenib, based on the CheckMate 040 and KEYNOTE-224 trials respectively. ESMO does not specifically recommend these agents in the second-line setting (ASCO, ESMO).
+- Lenvatinib: ESMO recommends Lenvatinib as a second-line treatment for patients who have previously received Sorafenib, based on the REFLECT trial. ASCO does not specifically recommend Lenvatinib in the second-line setting (ASCO, ESMO).
+
+In summary, both ASCO and ESMO guidelines recommend Regorafenib, Cabozantinib, and Ramucirumab as second-line treatments for HCC. However, there are differences in the recommendations for Nivolumab, Pembrolizumab, and Lenvatinib.
+
+References:
+- ASCO Clinical Practice Guideline Update on Systemic Therapy for Patients With Advanced Hepatocellular Carcinoma, 2020.
+- ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Hepatocellular Carcinoma, 2018.
+- RESORCE trial, 2017.
+- CELESTIAL trial, 2018.
+- REACH-2 trial, 2018.
+- CheckMate 040 trial, 2017.
+- KEYNOTE-224 trial, 2018.
+- REFLECT trial, 2018.",True,True
+13,use of cabozantinib,"Comparison of the use of cabozantinib in Hepatocellular Carcinoma (HCC) between ASCO and ESMO:
+
+Similarities:
+- Both guidelines recommend cabozantinib as a second-line treatment for patients with advanced HCC who have previously received sorafenib. This recommendation is based on the results of the CELESTIAL trial.
+    - CELESTIAL trial: A phase III, randomized, double-blind, placebo-controlled study of cabozantinib in patients with advanced HCC who have received prior sorafenib. The trial showed a significant improvement in overall survival and progression-free survival with cabozantinib compared to placebo (Abou-Alfa GK, et al., 2018).
+- Both guidelines suggest that cabozantinib should be considered in patients with Child-Pugh A liver function.
+
+Differences:
+- The ESMO guidelines provide more detailed information on the dosage of cabozantinib (60 mg once daily) and potential dose reductions due to adverse events.
+- The ASCO guidelines do not provide specific information on the dosage of cabozantinib, but they do mention that dose adjustments may be necessary based on individual patient tolerance and side effects.
+
+In summary, both ASCO and ESMO guidelines recommend cabozantinib as a second-line treatment for advanced HCC based on the results of the CELESTIAL trial. However, the ESMO guidelines provide more detailed information on the dosage and management of adverse events.
+
+References:
+- Abou-Alfa GK, et al. Cabozantinib in Patients with Advanced and Progressing Hepatocellular Carcinoma. N Engl J Med. 2018;379(1):54-63.
+- ESMO Clinical Practice Guidelines: Hepatocellular Carcinoma. Available at: https://www.esmo.org/guidelines/gastrointestinal-cancers/hepatocellular-carcinoma
+- ASCO Clinical Practice Guidelines: Management of Hepatocellular Carcinoma. Available at: https://www.asco.org/research-guidelines/quality-guidelines/guidelines/gastrointestinal-cancer#/11686",True,True
+14,use of regorafenib,"Comparison of regorafenib use in Hepatocellular Carcinoma (HCC) between ASCO and ESMO:
+
+Similarities:
+- Eligibility for Regorafenib: Both ASCO and ESMO guidelines recommend regorafenib as a second-line treatment for patients with HCC who have progressed on sorafenib treatment and have Child-Pugh A liver function. (ASCO, 2018; ESMO, 2018)
+- Clinical Trial Reference: Both guidelines refer to the RESORCE trial, a phase III randomized controlled trial, which demonstrated improved overall survival with regorafenib in patients with HCC who progressed on sorafenib treatment. (Bruix et al., 2017)
+
+Differences:
+- Specific Recommendations: The ASCO guidelines specifically recommend regorafenib for patients with HCC who tolerate but progress on sorafenib, while the ESMO guidelines recommend considering regorafenib or cabozantinib in this setting. (ASCO, 2018; ESMO, 2018)
+- Dose Modifications: The ESMO guidelines provide more detailed recommendations on dose modifications for regorafenib in the event of adverse reactions, while the ASCO guidelines do not provide specific recommendations on this aspect. (ASCO, 2018; ESMO, 2018)
+
+Summary: Both ASCO and ESMO guidelines recommend regorafenib as a second-line treatment for HCC in patients who have progressed on sorafenib and have Child-Pugh A liver function, based on the RESORCE trial. However, the ASCO guidelines specifically recommend regorafenib in this setting, while the ESMO guidelines suggest considering either regorafenib or cabozantinib. The ESMO guidelines also provide more detailed recommendations on dose modifications for regorafenib.
+
+References:
+- ASCO. (2018). Hepatocellular Carcinoma, Version 1.2018, NCCN Clinical Practice Guidelines in Oncology.
+- ESMO. (2018). ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Hepatocellular Carcinoma.
+- Bruix J, et al. (2017). Regorafenib for patients with hepatocellular carcinoma who progressed on sorafenib treatment (RESORCE): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol. 18(1): 34-45.",True,True
+15,use of ramucirumab,"Comparison of the use of ramucirumab in Hepatocellular Carcinoma (HCC) between ASCO and ESMO:
+
+Similarities:
+- Second-line treatment: Both ASCO and ESMO guidelines recommend ramucirumab as a second-line treatment for patients with advanced HCC who have previously been treated with sorafenib and have a high alpha-fetoprotein (AFP) level (>400 ng/mL). This recommendation is based on the results of the REACH-2 trial, which showed improved overall survival and progression-free survival in this patient population (ASCO, ESMO).
+- Patient selection: Both guidelines emphasize the importance of patient selection based on AFP levels, as the benefit of ramucirumab was only demonstrated in patients with AFP >400 ng/mL in the REACH-2 trial (ASCO, ESMO).
+
+Differences:
+- No significant differences were found in the recommendations for the use of ramucirumab in HCC between the ASCO and ESMO guidelines.
+
+Summary:
+Both ASCO and ESMO guidelines recommend ramucirumab as a second-line treatment for patients with advanced HCC who have previously been treated with sorafenib and have a high AFP level (>400 ng/mL). This recommendation is based on the results of the REACH-2 trial. Both guidelines emphasize the importance of patient selection based on AFP levels. No significant differences were found in the recommendations between the two guidelines.
+
+References:
+- American Society of Clinical Oncology (ASCO). Hepatocellular Carcinoma: ASCO Clinical Practice Guideline Update. Journal of Clinical Oncology, 2020.
+- European Society for Medical Oncology (ESMO). ESMO Clinical Practice Guidelines: Hepatocellular Carcinoma. Annals of Oncology, 2020.
+- REACH-2 trial: A randomized, double-blind, placebo-controlled phase 3 study of ramucirumab versus placebo in patients with hepatocellular carcinoma and elevated baseline alpha-fetoprotein. Journal of Clinical Oncology, 2018.",True,True
+16,recommended treatment for BCLC B in the advanced setting,"Comparison of Hepatocellular Carcinoma (HCC) treatment recommendations for BCLC B in the advanced setting between ASCO and ESMO:
+
+Similarities:
+- Transarterial chemoembolization (TACE): Both guidelines recommend TACE as a first-line treatment for patients with BCLC stage B HCC who are not suitable for curative treatments (surgery or ablation). This is based on several clinical trials showing improved survival with TACE compared to best supportive care (Llovet et al., 2002; Lo et al., 2002).
+- Systemic therapy: Both guidelines suggest systemic therapy as an alternative for patients who are not suitable for TACE or have progressed after TACE. Sorafenib is the most commonly recommended systemic therapy, based on the SHARP trial which showed improved survival with sorafenib compared to placebo (Llovet et al., 2008).
+
+Differences:
+- TACE schedule: ESMO guidelines suggest that TACE should be repeated every 6-8 weeks until there is no viable tumor, while ASCO guidelines do not specify a schedule for TACE.
+- Second-line therapy: ASCO guidelines recommend regorafenib, cabozantinib, or ramucirumab as second-line therapy after progression on sorafenib, based on the RESORCE, CELESTIAL, and REACH trials respectively (Bruix et al., 2017; Abou-Alfa et al., 2018; Zhu et al., 2019). ESMO guidelines do not specify a preferred second-line therapy.
+
+In summary, both ASCO and ESMO guidelines recommend TACE as first-line treatment for BCLC stage B HCC in the advanced setting, and systemic therapy for those not suitable for TACE or who have progressed after TACE. The main differences are in the schedule for TACE and the recommended second-line therapies after progression on sorafenib.",True,True
+17,recommended treatment for BCLC C in the advanced setting,"Comparison of Hepatocellular Carcinoma (HCC) treatment recommendations for BCLC C in the advanced setting between ASCO and ESMO:
+
+Similarities:
+- Systemic Therapy: Both ASCO and ESMO recommend systemic therapy as the primary treatment for advanced HCC (BCLC stage C). This includes the use of tyrosine kinase inhibitors (TKIs) such as sorafenib and lenvatinib as first-line treatment options [1,2].
+- Clinical Trials: Both guidelines emphasize the importance of clinical trial enrollment for patients with advanced HCC, given the limited efficacy of current treatment options and the need for novel therapies [1,2].
+
+Differences:
+- Second-line Treatment: ASCO recommends regorafenib, cabozantinib, or ramucirumab (for patients with AFP ≥400 ng/mL) as second-line treatment options after progression on sorafenib [1]. ESMO, on the other hand, recommends regorafenib or ramucirumab (for patients with AFP ≥400 ng/mL) as second-line options, but does not mention cabozantinib [2].
+- Role of Locoregional Therapies: ESMO guidelines suggest that locoregional therapies (such as TACE or radioembolization) may be considered in selected patients with advanced HCC, even though the primary treatment is systemic therapy [2]. ASCO guidelines do not mention the use of locoregional therapies in the advanced setting [1].
+
+Clinical Trials:
+- SHARP trial (sorafenib): This trial demonstrated a survival benefit with sorafenib in patients with advanced HCC, leading to its recommendation as a first-line treatment option in both ASCO and ESMO guidelines [3].
+- REFLECT trial (lenvatinib): This trial showed non-inferiority of lenvatinib to sorafenib in terms of overall survival, leading to its recommendation as a first-line treatment option in both ASCO and ESMO guidelines [4].
+- RESORCE trial (regorafenib): This trial demonstrated a survival benefit with regorafenib in patients with HCC who progressed on sorafenib, leading to its recommendation as a second-line treatment option in both ASCO and ESMO guidelines [5].
+- REACH trial (ramucirumab): This trial showed a survival benefit with ramucirumab in patients with HCC and AFP ≥400 ng/mL who progressed on sorafenib, leading to its recommendation as a second-line treatment option in both ASCO and ESMO guidelines [6].
+
+In summary, both ASCO and ESMO guidelines recommend systemic therapy as the primary treatment for advanced HCC (BCLC stage C), with sorafenib and lenvatinib as first-line options. Differences exist in the recommended second-line treatment options and the role of locoregional therapies.
+
+References:
+1. ASCO Clinical Practice Guideline Update on the Role of Systemic Therapy in Patients With Advanced Hepatocellular Carcinoma.
+2. ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Hepatocellular Carcinoma.
+3. Llovet JM, et al. Sorafenib in advanced hepatocellular carcinoma. N Engl J Med. 2008;359(4):378-390.
+4. Kudo M, et al. Lenvatinib versus sorafenib in first-line treatment of patients with unresectable hepatocellular carcinoma: a randomised phase 3 non-inferiority trial. Lancet. 2018;391(10126):1163-1173.
+5. Bruix J, et al. Regorafenib for patients with hepatocellular carcinoma who progressed on sorafenib treatment (RESORCE): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2017;389(10064):56-66.
+6. Zhu AX, et al. Ramucirumab after sorafenib in patients with advanced hepatocellular carcinoma and increased α-fetoprotein concentrations (REACH-2): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol. 2019;20(2):282-296.",True,True
+18,open questions and uncertainties regarding treatment recommendations,"I'm sorry, but as an AI, I don't have the ability to access real-time databases or guidelines to provide a line-by-line comparison of the ASCO and ESMO guidelines on Hepatocellular Carcinoma (HCC). However, I can provide a general comparison based on the information I was trained on.
+
+Comparison of Hepatocellular Carcinoma (HCC) treatment recommendations between ASCO and ESMO:
+
+Similarities:
+- Both guidelines recommend surgical resection, liver transplantation, and local ablation as potential curative treatments for early-stage HCC (T1-T2, N0, M0) in patients with good liver function (Child-Pugh A) and performance status.
+- Both guidelines recommend systemic therapy with tyrosine kinase inhibitors (sorafenib, lenvatinib) as first-line treatment for advanced HCC (T3-T4, N1, M1) or for patients who are not candidates for curative treatments.
+- Both guidelines acknowledge the role of immunotherapy (nivolumab, pembrolizumab) in the treatment of HCC, although the exact place in therapy is still under investigation.
+
+Differences:
+- ESMO guidelines may consider TACE (transarterial chemoembolization) as a first-line treatment for intermediate-stage HCC (T3, N0, M0) in patients with good liver function, while ASCO guidelines reserve TACE for patients who are not candidates for curative treatments or systemic therapy.
+- ASCO guidelines may consider the use of regorafenib, cabozantinib, or ramucirumab as second-line treatments after progression on sorafenib, while ESMO guidelines do not specifically recommend these agents.
+
+Open questions and uncertainties:
+- The optimal sequencing of systemic therapies in advanced HCC is still an open question.
+- The role of immunotherapy in HCC is still under investigation, with ongoing clinical trials evaluating its use in various settings (first-line, second-line, combination with other therapies).
+- The benefit of adjuvant therapy after curative treatments (surgery, ablation) is still uncertain, with conflicting results from clinical trials.
+
+Please note that this comparison is based on the information I was trained on, and may not reflect the most recent updates in the ASCO and ESMO guidelines. For the most accurate and up-to-date information, please refer to the official guidelines.",True,True
+19,future treatment perspectives,"I'm sorry, but as an AI, I don't have the ability to access real-time databases or guidelines to provide a line-by-line comparison of the ASCO and ESMO guidelines on Hepatocellular Carcinoma (HCC) and future treatment perspectives. However, I can provide a general comparison based on the information I was trained on.
+
+Comparison of future treatment perspectives for Hepatocellular Carcinoma (HCC) between ASCO and ESMO:
+
+Similarities:
+- Both guidelines emphasize the importance of clinical trials for advancing treatment options for HCC. They recommend that patients should be considered for clinical trials whenever possible.
+- Both guidelines highlight the potential of targeted therapies and immunotherapies as future treatment options for HCC. 
+
+Differences:
+- Specific future treatment perspectives or clinical trials may be highlighted in one guideline but not the other, depending on when the guidelines were last updated and the evidence available at that time.
+
+Please consult the most recent versions of the ASCO and ESMO guidelines for the most accurate and up-to-date information.",True,True
+20,staging procedures,"Comparison of Pancreatic Cancer Staging Procedures between ASCO and ESMO:
+
+Similarities:
+- Use of Imaging Techniques: Both ASCO and ESMO recommend the use of cross-sectional imaging techniques such as CT scan and MRI for initial staging of pancreatic cancer. These techniques help in assessing the local extent of the disease and distant metastasis [1,2].
+- Role of Endoscopic Ultrasound (EUS): Both guidelines recognize the importance of EUS in providing detailed imaging of the pancreas, and its role in obtaining tissue for diagnosis [1,2].
+- Importance of Staging Laparoscopy: Both ASCO and ESMO recommend staging laparoscopy for patients with borderline resectable or locally advanced disease to rule out peritoneal or liver metastasis not detected on imaging [1,2].
+
+Differences:
+- PET-CT Scan: ESMO guidelines suggest the use of PET-CT scan in cases where conventional imaging is inconclusive, while ASCO does not specifically mention the use of PET-CT in their guidelines [1,2].
+- Role of EUS in Staging: ESMO guidelines emphasize the role of EUS in determining vascular involvement and nodal status, while ASCO guidelines do not specifically mention these roles [1,2].
+
+Summary: Both ASCO and ESMO guidelines agree on the use of cross-sectional imaging, EUS, and staging laparoscopy in the staging of pancreatic cancer. However, there are differences in the use of PET-CT and the specific roles of EUS in staging.
+
+References:
+1. ASCO Guidelines on Pancreatic Cancer. American Society of Clinical Oncology.
+2. ESMO Guidelines on Pancreatic Cancer. European Society for Medical Oncology.",True,True
+21,resectibility criteria,"Comparison of resectibility criteria for Pancreatic Cancer between ASCO and ESMO:
+
+Similarities:
+- Both guidelines agree that resectability is determined by the absence of distant metastases and the relationship of the tumor to the surrounding vasculature. 
+- Both guidelines classify resectability into three categories: resectable, borderline resectable, and unresectable.
+- Both guidelines recommend multidisciplinary team assessment for determining resectability.
+
+Differences:
+- Definition of Borderline Resectable:
+    - ASCO: Defines borderline resectable pancreatic cancer as a tumor that involves the superior mesenteric vein or portal vein but allows for safe and complete resection and reconstruction. It also includes tumors with limited arterial involvement (National Comprehensive Cancer Network, 2019).
+    - ESMO: Defines borderline resectable pancreatic cancer as a tumor that involves the superior mesenteric vein or portal vein by more than 180 degrees or the superior mesenteric artery or celiac axis by less than 180 degrees (European Society for Medical Oncology, 2020).
+- Neoadjuvant Therapy:
+    - ASCO: Recommends considering neoadjuvant therapy for borderline resectable pancreatic cancer (National Comprehensive Cancer Network, 2019).
+    - ESMO: Recommends neoadjuvant therapy for all borderline resectable pancreatic cancer patients (European Society for Medical Oncology, 2020).
+
+In summary, while both ASCO and ESMO guidelines agree on the general criteria for resectability in pancreatic cancer, they differ in their definitions of borderline resectable disease and their recommendations for neoadjuvant therapy.
+
+References:
+- National Comprehensive Cancer Network. (2019). NCCN Clinical Practice Guidelines in Oncology: Pancreatic Adenocarcinoma. Version 1.2019.
+- European Society for Medical Oncology. (2020). ESMO Clinical Practice Guidelines: Pancreatic Adenocarcinoma. Version 1.2020.",True,True
+22,lymphadenectomy,"Comparison of lymphadenectomy in pancreatic cancer between ASCO and ESMO:
+
+Similarities:
+- Both guidelines recommend lymphadenectomy as part of the surgical procedure for resectable pancreatic cancer. 
+- Both guidelines suggest that the extent of lymphadenectomy should be based on the tumor location and stage. 
+
+Differences:
+- ASCO Guidelines:
+    - ASCO does not specify the exact number of lymph nodes to be removed during lymphadenectomy. 
+    - ASCO does not provide specific recommendations on the use of lymphadenectomy in the neoadjuvant or adjuvant setting.
+- ESMO Guidelines:
+    - ESMO recommends the removal of a minimum of 12 lymph nodes during lymphadenectomy for accurate staging.
+    - ESMO suggests considering extended lymphadenectomy in patients with resectable pancreatic cancer, especially in the context of clinical trials.
+
+Clinical Trials:
+- No specific clinical trials comparing the outcomes of standard versus extended lymphadenectomy in pancreatic cancer were mentioned in either guideline.
+
+Summary:
+Both ASCO and ESMO guidelines recommend lymphadenectomy as part of the surgical procedure for resectable pancreatic cancer. However, ESMO provides more specific recommendations regarding the number of lymph nodes to be removed and the consideration of extended lymphadenectomy. Neither guideline provides specific recommendations on the use of lymphadenectomy in the neoadjuvant or adjuvant setting. Further research, potentially in the form of clinical trials, is needed to clarify these aspects.
+
+References:
+- American Society of Clinical Oncology (ASCO) Guidelines on Pancreatic Cancer.
+- European Society for Medical Oncology (ESMO) Guidelines on Pancreatic Cancer.",True,True
+23,role of adjuvant chemotherapy,"Comparison of adjuvant chemotherapy in Pancreatic Cancer between ASCO and ESMO:
+
+Similarities:
+- Both guidelines recommend adjuvant chemotherapy for resected pancreatic cancer to improve survival rates.
+    - ASCO: Recommends 6 months of adjuvant chemotherapy with gemcitabine or fluorouracil plus folinic acid for patients with resected pancreatic cancer (R0/R1) (ASCO, 2019).
+    - ESMO: Also recommends 6 months of adjuvant chemotherapy with gemcitabine or fluorouracil plus folinic acid for patients with resected pancreatic cancer (R0/R1) (ESMO, 2019).
+- Both guidelines reference the ESPAC-4 trial, which showed a significant survival benefit with the combination of gemcitabine and capecitabine compared to gemcitabine alone in the adjuvant setting (ESMO, 2019; ASCO, 2019).
+
+Differences:
+- ASCO guidelines also mention the option of modified FOLFIRINOX (mFOLFIRINOX) as an adjuvant treatment based on the PRODIGE 24/CCTG PA.6 trial, which showed a significant survival benefit with mFOLFIRINOX compared to gemcitabine in patients with resected pancreatic cancer (ASCO, 2019).
+- ESMO guidelines do not specifically mention mFOLFIRINOX as an adjuvant treatment option (ESMO, 2019).
+
+In summary, both ASCO and ESMO guidelines recommend adjuvant chemotherapy with gemcitabine or fluorouracil plus folinic acid for resected pancreatic cancer. However, ASCO also mentions the use of mFOLFIRINOX based on the results of the PRODIGE 24/CCTG PA.6 trial.
+
+References:
+- ASCO Clinical Practice Guideline Update on Adjuvant Chemotherapy for Resected Pancreatic Cancer (2019)
+- ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of Pancreatic Cancer (2019)
+- ESPAC-4: A multicenter, international, open-label randomized controlled phase III trial of adjuvant combination chemotherapy of gemcitabine (GEM) and capecitabine (CAP) versus monotherapy gemcitabine in patients with resected pancreatic ductal adenocarcinoma
+- PRODIGE 24/CCTG PA.6 trial: A multicenter international randomized phase III trial of adjuvant mFOLFIRINOX versus gemcitabine (gem) in patients with resected pancreatic ductal adenocarcinomas.",True,True
+24,adjuvant chemoradiation,"Comparison of adjuvant chemoradiation in Pancreatic Cancer between ASCO and ESMO:
+
+Similarities:
+- Both guidelines recommend adjuvant chemotherapy for resected pancreatic cancer patients, but the role of chemoradiation is less clear.
+    - ASCO: Recommends adjuvant chemotherapy for all patients with resected pancreatic cancer, but states that the role of adjuvant chemoradiation is uncertain (Khorana et al., 2019).
+    - ESMO: Also recommends adjuvant chemotherapy for all patients with resected pancreatic cancer, and states that the role of adjuvant chemoradiation is controversial (Ducreux et al., 2015).
+
+Differences:
+- The guidelines differ in their specific recommendations for chemoradiation.
+    - ASCO: Does not explicitly recommend against chemoradiation, but suggests that it may be considered in certain circumstances, such as when there are positive margins (R1) after surgery (Khorana et al., 2019).
+    - ESMO: Explicitly states that chemoradiation should not be used as a standard treatment in the adjuvant setting, but may be considered in clinical trials or in specific situations, such as locally advanced disease (Ducreux et al., 2015).
+
+Clinical Trials:
+- The ESPAC-4 trial, which is referenced in both guidelines, found that adjuvant chemotherapy improved survival compared to observation alone, but did not specifically evaluate the role of chemoradiation (Neoptolemos et al., 2017).
+- The RTOG 9704 trial, referenced in the ASCO guidelines, found no significant difference in survival between patients who received adjuvant chemoradiation and those who received chemotherapy alone (Regine et al., 2008).
+
+Summary:
+Both ASCO and ESMO guidelines recommend adjuvant chemotherapy for resected pancreatic cancer, but the role of chemoradiation is less clear. ASCO suggests that chemoradiation may be considered in certain circumstances, such as positive margins after surgery, while ESMO explicitly states that it should not be used as a standard treatment in the adjuvant setting.
+
+References:
+- Khorana AA, et al. Potentially Curable Pancreatic Cancer: ASCO Clinical Practice Guideline Update. J Clin Oncol. 2019.
+- Ducreux M, et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2015.
+- Neoptolemos JP, et al. Comparison of adjuvant gemcitabine and capecitabine with gemcitabine monotherapy in patients with resected pancreatic cancer (ESPAC-4): a multicentre, open-label, randomised, phase 3 trial. Lancet. 2017.
+- Regine WF, et al. Fluorouracil vs gemcitabine chemotherapy before and after fluorouracil-based chemoradiation following resection of pancreatic adenocarcinoma: a randomized controlled trial. JAMA. 2008.",True,True
+25,management of borderline resectable tumors,"Comparison of management of borderline resectable pancreatic cancer between ASCO and ESMO:
+
+Similarities:
+- Neoadjuvant Therapy: Both guidelines recommend neoadjuvant therapy for borderline resectable pancreatic cancer. This includes chemotherapy and/or chemoradiation. The aim is to increase the chance of R0 resection and improve survival outcomes. (ASCO, 2019; ESMO, 2020)
+- Surgery: Both guidelines agree that surgery should be considered if the tumor becomes resectable after neoadjuvant therapy. (ASCO, 2019; ESMO, 2020)
+- Clinical Trials: Both guidelines emphasize the importance of clinical trials in this patient population. They recommend that patients should be enrolled in clinical trials whenever possible. (ASCO, 2019; ESMO, 2020)
+
+Differences:
+- Chemotherapy Regimens: ASCO does not specify a preferred chemotherapy regimen for neoadjuvant therapy. ESMO, however, recommends FOLFIRINOX (fluorouracil, leucovorin, irinotecan, and oxaliplatin) or gemcitabine-based regimens. (ASCO, 2019; ESMO, 2020)
+- Radiological Assessment: ESMO recommends a radiological reassessment after 2 months of neoadjuvant therapy, while ASCO does not provide a specific timeline. (ASCO, 2019; ESMO, 2020)
+
+In summary, both ASCO and ESMO guidelines agree on the use of neoadjuvant therapy and the importance of clinical trials in the management of borderline resectable pancreatic cancer. However, they differ in their recommendations for specific chemotherapy regimens and the timing of radiological reassessment.
+
+References:
+- American Society of Clinical Oncology. (2019). Management of Pancreatic Cancer: ASCO Guideline.
+- European Society for Medical Oncology. (2020). Pancreatic Cancer: ESMO Clinical Practice Guidelines.",True,True
+26,treatment recommendations in the metastatic situation,"I'm sorry for the misunderstanding, but as an AI, I don't have the ability to access real-time databases or guidelines to provide a line-by-line comparison of the ESMO and ASCO guidelines on metastatic pancreatic cancer. However, I can provide a general comparison based on the information I was trained on.
+
+Comparison of metastatic pancreatic cancer treatment recommendations between ASCO and ESMO:
+
+Similarities:
+- Both guidelines recommend systemic chemotherapy as the primary treatment for metastatic pancreatic cancer.
+- Both guidelines suggest FOLFIRINOX (fluorouracil, leucovorin, irinotecan, and oxaliplatin) or gemcitabine plus nab-paclitaxel as first-line treatment options for patients with good performance status (ECOG 0-1).
+- Both guidelines recommend gemcitabine monotherapy or best supportive care for patients with poor performance status (ECOG 2 or higher).
+- Both guidelines suggest second-line treatment with either FOLFIRINOX or gemcitabine plus nab-paclitaxel (whichever was not used first-line) for patients with good performance status, or gemcitabine monotherapy for those with poor performance status.
+
+Differences:
+- The ESMO guidelines may suggest more specific criteria for patient selection for FOLFIRINOX or gemcitabine plus nab-paclitaxel, based on factors such as age, comorbidities, and patient preference.
+- The ASCO guidelines may provide more detailed recommendations on the management of treatment-related toxicities.
+
+Clinical trials:
+- The PRODIGE 4/ACCORD 11 trial demonstrated the superiority of FOLFIRINOX over gemcitabine in terms of overall survival and progression-free survival in patients with metastatic pancreatic cancer and good performance status.
+- The MPACT trial showed that gemcitabine plus nab-paclitaxel improved overall survival compared to gemcitabine alone in a similar patient population.
+
+In summary, both the ESMO and ASCO guidelines recommend similar treatment strategies for metastatic pancreatic cancer, with the choice of first-line treatment largely dependent on the patient's performance status. However, there may be some differences in the specifics of patient selection and toxicity management.",True,False
+27,use of erlotinib and other targeted therapies,"Comparison of Erlotinib and other targeted therapies in Pancreatic Cancer between ASCO and ESMO:
+
+Similarities:
+- Erlotinib Use: 
+    - Both ASCO and ESMO guidelines recommend the use of erlotinib in combination with gemcitabine for the treatment of advanced pancreatic cancer (ASCO, 2019; ESMO, 2020).
+    - This recommendation is based on the results of the PA.3 trial, which showed a small but statistically significant improvement in overall survival with the addition of erlotinib to gemcitabine (Moore et al., 2007).
+- Other Targeted Therapies:
+    - Both guidelines do not recommend the routine use of other targeted therapies in pancreatic cancer due to lack of evidence showing a significant survival benefit (ASCO, 2019; ESMO, 2020).
+
+Differences:
+- Erlotinib Use:
+    - ESMO guidelines specify that erlotinib should be considered for patients with good performance status (ECOG 0-1), while ASCO guidelines do not specify this (ESMO, 2020; ASCO, 2019).
+- Other Targeted Therapies:
+    - ESMO guidelines mention the potential use of olaparib as maintenance therapy in patients with germline BRCA-mutated metastatic pancreatic cancer who have not progressed on first-line platinum-based chemotherapy, based on the results of the POLO trial (Golan et al., 2019). ASCO guidelines do not mention this (ESMO, 2020; ASCO, 2019).
+
+Summary:
+Both ASCO and ESMO guidelines recommend the use of erlotinib in combination with gemcitabine for advanced pancreatic cancer, based on the PA.3 trial. Other targeted therapies are not routinely recommended by either guideline due to lack of evidence of survival benefit. However, ESMO guidelines mention the potential use of olaparib as maintenance therapy in a specific subset of patients, based on the POLO trial.
+
+References:
+- ASCO. (2019). Pancreatic Cancer: ASCO Clinical Practice Guideline Update.
+- ESMO. (2020). Pancreatic Adenocarcinoma: ESMO Clinical Practice Guidelines.
+- Moore MJ, et al. (2007). Erlotinib plus gemcitabine compared with gemcitabine alone in patients with advanced pancreatic cancer: a phase III trial of the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol.
+- Golan T, et al. (2019). Maintenance Olaparib for Germline BRCA-Mutated Metastatic Pancreatic Cancer. N Engl J Med.",True,True
+28,use cases of FOLFIRINOX and modified FOLFIRINOX (mFOLFIRINOX),"Comparison of FOLFIRINOX and modified FOLFIRINOX (mFOLFIRINOX) use in Pancreatic Cancer between ASCO and ESMO:
+
+Similarities:
+- Adjuvant Therapy:
+    - Both ASCO and ESMO recommend FOLFIRINOX as a standard adjuvant therapy for resected pancreatic cancer in patients with good performance status (ECOG 0-1) (ASCO, 2019; ESMO, 2020).
+    - Both guidelines reference the PRODIGE 24/CCTG PA.6 trial, which showed improved survival with FOLFIRINOX compared to gemcitabine (Conroy et al., 2018).
+- Locally Advanced Disease:
+    - Both guidelines suggest FOLFIRINOX as a treatment option for locally advanced, unresectable pancreatic cancer (ASCO, 2019; ESMO, 2020).
+- Metastatic Disease:
+    - Both ASCO and ESMO recommend FOLFIRINOX as a first-line treatment for metastatic pancreatic cancer in patients with good performance status (ECOG 0-1) (ASCO, 2019; ESMO, 2020).
+    - Both guidelines reference the ACCORD 11/PRODIGE 4 trial, which showed improved survival with FOLFIRINOX compared to gemcitabine (Conroy et al., 2011).
+
+Differences:
+- Modified FOLFIRINOX:
+    - ASCO does not provide specific recommendations on the use of mFOLFIRINOX (ASCO, 2019).
+    - ESMO suggests that mFOLFIRINOX may be considered in certain situations, such as in patients with a borderline performance status (ECOG 2) or in those who may not tolerate full-dose FOLFIRINOX (ESMO, 2020).
+
+In summary, both ASCO and ESMO guidelines recommend FOLFIRINOX as a treatment option in various stages of pancreatic cancer, with references to the PRODIGE 24/CCTG PA.6 and ACCORD 11/PRODIGE 4 trials. The main difference lies in the use of mFOLFIRINOX, which is suggested by ESMO but not specifically recommended by ASCO.
+
+References:
+- ASCO. (2019). Pancreatic Cancer: ASCO Clinical Practice Guideline Update.
+- ESMO. (2020). Pancreatic Adenocarcinoma: ESMO Clinical Practice Guidelines.
+- Conroy T, et al. (2018). FOLFIRINOX or Gemcitabine as Adjuvant Therapy for Pancreatic Cancer. N Engl J Med.
+- Conroy T, et al. (2011). FOLFIRINOX versus Gemcitabine for Metastatic Pancreatic Cancer. N Engl J Med.",True,True
+29,role of PARP inhibitors,"Comparison of the role of PARP inhibitors in Pancreatic Cancer between ASCO and ESMO:
+
+Similarities:
+- Both ASCO and ESMO guidelines recommend the use of PARP inhibitors for patients with metastatic pancreatic cancer who have a germline BRCA mutation. This is based on the results of the POLO trial (N Engl J Med 2019; 381:317-327).
+- Both guidelines suggest that PARP inhibitors should be considered as maintenance therapy after a response to platinum-based chemotherapy in patients with a germline BRCA mutation.
+
+Differences:
+- The ASCO guidelines do not specify a particular PARP inhibitor, while the ESMO guidelines specifically recommend olaparib based on the POLO trial.
+- The ESMO guidelines provide more detailed recommendations on the timing of BRCA testing and the use of PARP inhibitors, suggesting that all patients with metastatic pancreatic cancer should be tested for germline BRCA mutations at diagnosis.
+
+Summary:
+Both ASCO and ESMO guidelines recommend the use of PARP inhibitors in patients with metastatic pancreatic cancer who have a germline BRCA mutation, particularly as maintenance therapy after a response to platinum-based chemotherapy. The ESMO guidelines specifically recommend olaparib and provide more detailed recommendations on BRCA testing and the use of PARP inhibitors.",True,True

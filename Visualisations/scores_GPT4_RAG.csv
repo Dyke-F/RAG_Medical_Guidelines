@@ -1,0 +1,5 @@
+Type,correct,inaccurate,wrong
+ALL,184.0,30.0,4.0
+HCC,60.0,10.0,1.0
+mCRC,62.0,10.0,3.0
+PACA,62.0,10.0,0.0

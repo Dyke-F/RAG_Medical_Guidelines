@@ -1,0 +1,11 @@
+chromadb==0.3.29
+fastapi==0.85.1
+omegaconf==2.3.0
+openai==0.27.8
+openapi-schema-pydantic==1.2.4
+pandas==2.0.3
+pydantic==1.10.11
+pypdf==3.15.1
+PyPDF2==3.0.1
+tiktoken==0.4.0
+hnswlib==0.7.0

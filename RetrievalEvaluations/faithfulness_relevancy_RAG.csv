@@ -1,0 +1,447 @@
+,query,response,faithfulness,relevancy
+0,recommended treatment options for first line therapy in advanced tumors,"Comparison of recommended first-line treatments for advanced Hepatocellular Carcinoma (HCC) between ASCO and ESMO:
+Similarities:
+- Recommended First-line therapy: Both ESMO and ASCO support the use of Atezolizumab plus bevacizumab as the standard of care in first-line therapy for patients with advanced Hepatocellular Carcinoma (HCC).
+
+- Role of Sorafenib and Lenvatinib: Both ESMO and ASCO agree that sorafenib and lenvatinib can be considered as alternatives in cases where there are contraindications to Atezolizumab-bevacizumab.
+
+- Insufficiency of chemotherapy: Both organizations do not recommend chemotherapy as a standard care for advanced HCC.
+
+Differences:
+- Recommendation Grade: ESMO provides a gradation for the recommendations (I, A; ESMO-MCBS v1.1 score: 5 for the Atezolizumab recommendation) and references to clinical trials (CheckMate 459 trial for example), while ASCO states the strength of the recommendation and the quality of evidence but without any grading score or detailed reference to trials.
+
+- Patient Profile: ASCO provides specific patients’ profile recommendations mentioning Child-Pugh class A, ECOG PS 0-1 patients. ESMO mentions recommendation for patients with well-preserved liver function and ECOG PS 0–2.
+
+- Mention of BCLC B Stage HCC: ESMO specifically mentions sorafenib as the standard of care for patients with intermediate-stage (BCLC B) disease not eligible for, or progressing despite, locoregional therapies. ASCO does not mention any specific recommendations for this subgroup of patients.
+
+- Individualization of Treatment: ASCO emphasizes the need for individualizing therapy based on factors including comorbidities, liver function, performance status, and potential for benefit and risk of harm associated with the treatment options. ESMO does not specifically mention this aspect. 
+
+Summary:
+Both ESMO and ASCO recommend Atezolizumab plus Bevacizumab as the standard first-line therapy for advanced HCC and offer Sorafenib and Lenvatinib as alternative options for patients who aren't eligible for the mentioned combination therapy. However, the two guidelines differ in their grading of these recommendations and in the specifics of patient profiles they address. They also differ in their emphasis on individual treatment plans and mentions of intermediate-stage HCC.",True,True
+1,precise recommendations and use cases of Atezolizumab + Bevacizumab,"Comparison of hepatocellular carcinoma treatment guidelines between ASCO and ESMO:
+
+Similarities:
+- First-line therapy: Both ESMO and ASCO recommend atezolizumab plus bevacizumab as the standard first-line systemic therapy for patients with advanced HCC based on the IMbrave150 trial results [1,2].
+- Second-line therapy: Both ASCO and ESMO recommend considering approved agents like sorafenib, lenvatinib, regorafenib, cabozantinib, and ramucirumab in the second-line setting following first-line therapy with atezolizumab and bevacizumab [3,4].
+- Use of TKIs after atezolizumab and bevacizumab: Both guidelines suggest the use of TKIs like sorafenib or lenvatinib in cases where there are contraindications to atezolizumab or bevacizumab or after first-line treatment with the combination [3,4].
+
+Differences:
+- Opinion on second-line therapy: A minority of the authors (3/14) in ESMO recommend the use of regorafenib, cabozantinib, and ramucirumab in the third line and only sorafenib or lenvatinib in the second line after atezolizumab plus bevacizumab [3]. Meanwhile, ASCO also suggests cabozantinib or regorafenib as reasonable options for second-line therapy [4].
+- ASCO also suggests the use of immunotherapy agents like pembrolizumab or nivolumab after first-line therapy with sorafenib or lenvatinib, a recommendation not seen in the ESMO guidelines [4].
+- ASCO guideline points out a cautionary note for patients with advanced liver disease due to the risk of bleeding complications associated with bevacizumab [4]. However, this specific precaution is not mentioned in the ESMO guidelines.
+
+In summary, both ESMO and ASCO guidelines show a high degree of consensus for the first-line treatment of HCC with atezolizumab plus bevacizumab, with comparatively minor differences regarding subsequent therapies and precautions with bevacizumab use.
+
+References:
+1. Vogel A, Cervantes A, Chau I, et al. Hepatocellular carcinoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2018;29(4):iv238-iv255.
+2. Finn RS, Qin S, Ikeda M, et al. N Engl J Med 382:1894-1905, 2020.
+3. Finn RS, Qin S, Ikeda M, et al. N Engl J Med. 2020;382(20):1894-1905.
+4. Finn RS, et al. N Engl J Med 382:1894-1905, 2020.",True,True
+2,second line treatments,"Comparison of advanced Hepatocellular carcinoma (HCC) treatment recommendations between ASCO and ESMO:
+Similarities:
+    - Atezolizumab plus Bevacizumab use in first-line: Both guidelines suggest the use of atezolizumab plus bevacizumab as first-line treatment for advanced HCC.
+    - Second-line TKI therapy: Both ASCO and ESMO recommend the use of TKIs such as sorafenib, lenvatinib, cabozantinib, or regorafenib as a second-line therapy option after different first-line treatments, although ASCO specifically highlights this as an option following atezolizumab-bevacizumab.
+    - Use of Ramucirumab: Both guidelines suggest the use of ramucirumab for patients with AFP levels ≥400 ng/mL in the second-line setting.
+    - Use of regorafenib: Both guidelines show agreement towards regorafenib as a second-line therapy after patients have been previously treated with sorafenib.
+
+Differences:
+    - Use of Nivolumab and Pembrolizumab: ASCO guidelines consider these drugs as potential second-line therapies, while ESMO doesn't recommend them due to lack of EMA approval and failure to meet the endpoints in phase III trials.
+    - Sequence of treatments and third-line therapy: ESMO suggests a shorter list of agents for second-line treatment after atezolizumab plus bevacizumab failure/intolerance, with other agents being recommended for third-line use. While ASCO does not offer a specific sequence or formal recommendation for third-line therapy.
+    - Cabozantinib usage: ESMO highlights the efficacy and safety of cabozantinib independent of the duration of prior sorafenib treatment, while ASCO references its use as a third-line option in the CELESTIAL trial.
+    - Specific recommendations: ASCO provides a more detailed consideration, factoring patient and clinician preferences, comorbidities, liver function, and performance status into treatment choices. ESMO doesn't specify these details.
+
+In summary, both ESMO and ASCO share similarities in their advanced HCC treatment guidelines, with discrepancies found predominantly in the sequence of treatment, use of Nivolumab and Pembrolizumab, and the level of detail offered in decision-making considerations.",True,True
+3,use of cabozantinib,"Comparison of Cabozantinib treatment in advanced hepatocellular carcinoma (HCC) between ASCO and ESMO:
+Similarities:
+    - CELESTIAL trial: Both acknowledge the CELESTIAL trial as a notable clinical trial in evaluating the efficacy of cabozantinib as a second- and third-line treatment for HCC. The CELESTIAL trial was a randomized phase III trial [ESMO, ASCO].
+    - Patient selection: Both recommend cabozantinib for patients who are intolerant to or have progressive disease under sorafenib treatment [ESMO, ASCO].
+    - Efficacy results: Both highlight the significant improvement in progression-free survival (PFS) and overall survival (OS) for patients given cabozantinib compared to placebo [ESMO, ASCO].
+    - Side effects: Both mention that grade 3/4 adverse events were significantly more common in patients treated with cabozantinib compared to placebo [ESMO, ASCO].
+    - Dose and treatment adjustments: Both provide insights about the potential need for dose adjustments due to side effects and discontinuation of treatment [ESMO, ASCO].
+        
+Differences:
+    - Efficacy Results: ESMO mentions the response rate was 4% with cabozantinib while ASCO does not provide this specific detail [ESMO].
+    - Treatment position: ESMO suggests cabozantinib for patients who had progressive disease on one or two systemic therapies, but ASCO specifically mentions cabozantinib as a potential third-line therapy [ESMO, ASCO].
+    - Side effects: ESMO provides more details on the type of adverse events, including palmar-plantar erythrodysesthaesia, hypertension, increased AST, fatigue, and diarrhea. ASCO only mentions that grade 3 or 4 adverse events were more common but does not specify [ESMO, ASCO].
+    - Patient selection: ESMO recommends cabozantinib for patients with well-preserved liver function and ECOG PS 0–1, while ASCO extends the recommendation to patients with Child-Pugh A liver function who tolerated at least 400 mg of sorafenib for 20 days or longer [ESMO, ASCO].
+
+Overall, ESMO and ASCO both highlight the efficacy of cabozantinib in improving survival outcomes in advanced HCC, but they suggest its use at different stages of treatment pathways. Also, ESMO provides more specific details on the type of side effects experienced by patients.",True,True
+4,use of regorafenib,"Comparison of regorafenib treatment in advanced HCC between ASCO and ESMO:
+Similarities:
+    - RESORCE trial: Both ESMO and ASCO guidelines rely on evidence provided by the RESORCE trial, which demonstrated a survival benefit with regorafenib in HCC patients who progressed after sorafenib use [Bruix et al, 2017]. It showed improved overall survival with regorafenib compared to placebo [HR 0.62; P<0.0001, mOS 7.8–10.6 months according to ESMO and HR, 0.63; 95% CI, 0.5 to 0.79 according to ASCO].
+    - Patient selection: Both guidelines recommended regorafenib in HCC patients that have tolerated sorafenib but showed disease progression. Patients recommended for regorafenib should have good liver function [Child-Pugh A according to ASCO, and well-preserved liver function according to ESMO].
+    - Second-line therapy: Both guidelines acknowledge regorafenib as a second-line therapy after sorafenib or lenvatinib treatment.
+    - Increased toxicity: Both identify that regorafenib is associated with higher toxicity compared to sorafenib.
+
+Differences:
+    - Specific recommendations: ESMO mentions that regorafenib is not recommended for TKI-naïve patients, whereas ASCO does not mention this explicitly.
+    - Regorafenib post atezolizumab plus bevacizumab: ASCO suggests that regorafenib could be an option for second-line therapy after first-line treatment with atezolizumab plus bevacizumab. ESMO suggests considering all approved agents (sorafenib, lenvatinib, regorafenib, cabozantinib, and ramucirumab) in the second-line setting after atezolizumab plus bevacizumab.
+    - Adverse events: ASCO provides specific details about regorafenib-related adverse events leading to discontinuation, dose reduction or interruption, and the increased likelihood of certain symptoms such as hypertension, fatigue, and diarrhea, while ESMO does not.
+
+In summary, while both guidelines recognize regorafenib as a standard second-line treatment for HCC after sorafenib, ESMO clearly states it is not for TKI-naïve patients. While ESMO suggests considering all approved agents post atezolizumab plus bevacizumab, ASCO specifically provides regorafenib as a reasonable option. ASCO gives a more detailed outline of the adverse events associated with regorafenib compared to ESMO.",True,True
+5,use of ramucirumab,"Comparison of Ramucirumab use in hepatocellular carcinoma between ASCO and ESMO:
+Similarities:
+    - Use of Ramucirumab: Both ASCO and ESMO guidelines suggest the use of Ramucirumab (RAM) in the second-line setting for patients who are intolerant to or have progressed under sorafenib treatment.
+    - REACH-2 trial findings: Both guidelines reference the REACH-2 trial which showed that RAM improved median overall survival (mOS) and median progression-free survival (mPFS) in patients with elevated baseline alpha-fetoprotein (AFP).
+    - Specific patient group: Both guidelines recommend RAM for patients with AFP ≥400 ng/mL in the second-line treatment.
+    - Adverse events: Both guidelines state that adverse events occurring at a rate of over 5% in the RAM arm were hypertension and hyponatremia.
+
+Differences:
+    - Additional ESMO recommendations: ESMO recommends RAM for patients with well-preserved liver function and Eastern Cooperative Oncology Group Performance Status (ECOG PS) 0–1, pending European Medicines Agency (EMA) approval. There is no equivalent recommendation in ASCO guidelines.
+    - Consideration of other agents: ESMO guideline authors recommend considering all approved agents (sorafenib, lenvatinib, regorafenib, cabozantinib, and ramucirumab) in the second-line setting after atezolizumab plus bevacizumab. This recommendation is not present in ASCO guidelines. 
+    - Cost-effectiveness: ASCO guidelines reference a cost-effectiveness analysis for Ramucirumab treatment in hepatocellular carcinoma, with results typically exceeding willingness-to-pay thresholds. This aspect is not covered in ESMO guidelines.
+
+Summary: Both ASCO and ESMO guidelines align in recommending RAM for second-line treatment in patients with advanced hepatocellular carcinoma with AFP ≥400 ng/mL who are intolerant to or have progressed under sorafenib treatment. The guidelines also agree on the most common adverse events. However, ESMO includes additional patient eligibility criteria and also recommends considering alternative agents in second-line treatment after atezolizumab plus bevacizumab. ASCO uniquely discusses the cost-effectiveness of RAM treatment.
+",True,True
+6,recommended treatment for BCLC B in the advanced setting,"Comparison of hepatocellular carcinoma treatment guidelines between ASCO and ESMO:
+Similarities:
+- First-line treatment options:
+    ESMO and ASCO both consider Sorafenib as a standard of care for hepatocellular carcinoma. Both guidelines also consider Lenvatinib as an option for first-line therapy. Furthermore, both also recommend Atezolizumab plus Bevacizumab as a superior first-line therapy option for patients with advanced HCC. 
+- Sequential systemic therapy:
+    Both ESMO and ASCO seem to favor sequential systemic therapy for patients with maintained liver function. 
+- Tailored treatment:
+    Both guidelines emphasize the need for treatment to be individualized according to patients' overall health, liver function, tumor characteristics, and personal preferences.
+
+Differences:
+- Stage-specific recommendations:
+    ESMO provides specific recommendations for BCLC stage B, recommending Sorafenib for those not eligible for or progressing despite locoregional therapies, and highlighting the efficacy of TACE in selected asymptomatic patients with maintained liver function in early intermediate BCLC B stage. However, ASCO's guidelines do not provide specific recommendations for BCLC stage B patients in the advanced setting.
+- Role of Chemotherapy:
+    ESMO guidelines suggest that the role of chemotherapy in managing HCC has not been established. In contrast, ASCO's guidelines do not explicitly comment on the role of chemotherapy.
+- Regorafenib:
+    ESMO recommends Regorafenib for patients who are tolerant to but progressing on Sorafenib, while ASCO does not mention Regorafenib in their guidelines.
+- Multidisciplinary approach:
+    While the ASCO emphasizes the role of a multidisciplinary team in the treatment decisions, ESMO does not comment on this aspect specifically.
+
+Summary:
+Both ESMO and ASCO largely agree on first-line treatment options for HCC, promoting an individualized treatment approach and sequential systemic therapies. Notable differences include stage-specific recommendations and the mention of chemotherapy and Regorafenib. ASCO places an explicit focus on the need for a multidisciplinary team in treatment decisions.",True,True
+7,recommended treatment for BCLC C in the advanced setting,"Comparison of hepatocellular carcinoma treatment guidelines between ASCO and ESMO:
+
+Similarities:
+- BCLC staging: Both ESMO and ASCO use the Barcelona Clinic Liver Cancer (BCLC) staging system for patients with hepatocellular carcinoma (HCC).
+- First-line Therapy: Both guidelines recommend Atezolizumab plus Bevacizumab as a first-line treatment for patients with advanced HCC, especially for those with well-preserved liver function and good performance status (ECOG PS 0-1 or 0-2).
+- Sequential Treatment: Both guidelines allow for sequential therapies with other drugs like Regorafenib, Ramucirumab, Sorafenib, and Lenvatinib if a patient does not respond to the first-line therapy or shows disease progression.
+- Patient Individualization: Both guidelines emphasize the importance of individualizing therapy based on patient characteristics, liver function, tumor burden, and potential side-effects of the treatments.
+    
+Differences:
+- ECOG Performance Status: ESMO recommends first-line therapy with Atezolizumab plus Bevacizumab for patients with ECOG PS 0-2, compared to ASCO which specifies ECOG PS 0-1.
+- Alternative First-Line Treatment: ESMO guidelines mention Lenvatinib as an alternative first-line therapy with non-inferior efficacy compared to Sorafenib. ASCO also mentions Sorafenib or Lenvatinib as alternative first-line treatments when there are contraindications to Atezolizumab and/or Bevacizumab.
+- Third-Line Treatment: ASCO mentions Cabozantinib as a potential third-line therapy, particularly for patients who have received one or two other systemic therapy regimens.
+- Specific Trial Outcomes: ASCO cites specific clinical trials such as REACH-2 (for Ramucirumab) and CELESTIAL (for Cabozantinib) to substantiate its recommendations. ESMO does not name specific trials.
+- Systemic Therapy in Child-Pugh class B patients: While both guidelines acknowledge the lack of data for these specific patients, ASCO additionally mentions the emerging research on TKI/immunotherapy combinations.
+
+Summary:
+While ASCO and ESMO guidelines have substantial similarities in recommended therapies for advanced HCC, there are slight differences in performance status criteria, trials used to justify interventions, third-line therapy options, and future directions. Clinicians should stay updated with emerging research for comprehensive decision-making.",True,True
+8,open questions and uncertainties regarding treatment recommendations,"Comparison of hepatocellular carcinoma (HCC) treatment recommendations between ASCO and ESMO:
+Similarities:
+    - Uncertainties and Open Questions: Both guidelines from ASCO and ESMO highlight uncertainties and open questions in HCC treatment due to the lack of substantial evidence from randomized Phase III trials. They converge on issues such as the identification of specific biomarkers, the sequencing of therapies, and the untreated need in Child-Pugh Class B patients.
+    - Need for More Research: Both sets of guidelines underline the need for more research in the fields of early palliative care involvement, health disparities in access to care, and clinical trials outcomes, along with standardized methodologies to assess treatment costs and survival value.
+    - Issues with Evidence Level: Both ESMO and ASCO guidelines understand the challenges presented by the lack of evidence with sufficiently powered studies, particularly in identifying subpopulations that may significantly benefit from currently available treatment options.
+
+Differences:
+    - Recurrence and Advanced Stages: ESMO explicitly suggests that patients exhibiting recurrence following radical therapies can still be candidates for curative therapies and orients those in more advanced stages towards trans-arterial chemoembolisation (TACE) or systemic agents such as sorafenib. ASCO does not delve into specific treatment courses in its information.
+    - Grading System: The ESMO guidelines incorporate a grading system for levels of evidence and grades of recommendation, providing a structured approach towards understanding the proven effectiveness or associated risks of various therapeutic choices. There is no equivalent in the ASCO information.
+    - Recommendations on Third-Line Therapy: ASCO guidelines specifically address third-line therapy, albeit with a lack of formal recommendation. They consider it potentially applicable in Child-Pugh A patients possessing good performance status. ESMO does not discuss third-line therapy within the given context.
+
+In conclusion, while the ESMO and ASCO guidelines share common ground on several overarching issues such as the need for additional research and evidence scarcity, they also reveal marked differences in their specific recommendations and focus areas. For instance, ESMO provides a clear grading system and explicit suggestions for managing recurrence and advanced stages. ASCO, on the other hand, has a broader focus on systemic issues like health disparities, cost implications, and underuse of curative treatment options. These distinctions could inform healthcare providers towards implementing nuanced clinical practice in the context of their specific settings and patient needs.",True,True
+9,future treatment perspectives,"Comparison of future treatment perspectives for Hepatocellular Carcinoma (HCC) between ASCO and ESMO:
+
+Similarities:
+    - Personalized/Targeted Therapy: Both ASCO and ESMO indicate a focus on personalized treatment methods in HCC management, although there is currently insufficient concrete evidence for such molecular stratification.
+    - Biomarker Research: Both ASCO and ESMO highlight the need for further research on potential biomarker-driven approaches for treatment and stratification of response in HCC.
+
+Differences:
+    - Targeted Therapy: ESMO targets for drug development include the androgen receptor, STAT3 inhibitor, HDACi, CDK 4/6, and FGFR4 while ASCO emphasises on the combination of TKIs and immune checkpoint inhibitors.
+    - Trials: ESMO mentions disappointing results from a tivantinib phase III trial, leading to ongoing studies enriching for MET pathway activation or MET overexpression with INC280. ASCO, however, focuses on the combination of locoregional therapy with systemic therapies, including TKIs, checkpoint inhibitors, and antivascular agents, mentioning trials studying these combinations.
+    - Treatment methods: ESMO mentions the need for further validation of mRECIST in assessing tumor response, while ASCO discusses multidisciplinary patient management and early referrals, challenges with oral chemotherapy adherence, and the importance of a histologic diagnosis in light of emerging targeted therapies in HCC. ASCO also recommends the choice treatment with lenvatinib or sorafenib should involve a discussion with the patient to include factors such as medical history, disease etiology, treatment costs and goals, patient preference, and expected benefit.
+
+Overall, both guidelines acknowledge the need for more personalized treatment approaches based on molecular stratifications. There are, however, clear differences between the guidelines where ESMO places emphasis on specific drug targets including FGFR4 and MET pathway, while ASCO centers on the combination of TKIs and immune checkpoint inhibitors. The choice of treatment as recommended by ASCO should involve a discussion with the patient and take into account several factors like medical history, costs, and benefits. Moreover, ASCO emphasizes multidisciplinary patient management and early oncology referrals.",True,True
+10,management of potentially curative resectable liver metastases,"Comparison of colorectal liver metastases treatment guidelines between ASCO and ESMO:
+Similarities:
+- Resectability Criteria: Both ASCO and ESMO guidelines suggest resection of colorectal liver metastases (CRLMs) when it is possible as a potentially curative treatment. Furthermore, both guidelines imply that the decision of resection should be based on a multidisciplinary team and other factors such as patient fitness, tumor location, and number.
+- Use of Ablative Techniques: Both guidelines mention the potential addition of ablative techniques (thermal ablation or stereotactic body radiotherapy - SBRT) in cases where resection is not feasible due to reasons such as poor anatomical location or patient frailty.
+- Peri-operative Chemotherapy: Both guidelines discuss the use of perioperative chemotherapy. They agree that its use requires careful consideration depending on the prognostic criteria, and may not necessarily be needed in all cases where resectable metastases are present.
+
+Differences:
+- Number and Size Considerations: ESMO guidelines state that technical resectability is not limited by the number, size or bilobar metastatic involvement. This stipulation is not present in the ASCO guidelines.
+- Role of Chemotherapy: ESMO mentions that oxaliplatin-based chemotherapy as a type of perioperative treatment in unclear prognostic cases, while ASCO does not specify the type of chemotherapy.
+- Guidance for CRLMs treatment: ESMO has specific guidelines for treatment options for patients with unresectable CRLMs only, or oligometastatic disease in the liver and lung. These are not explicitly mentioned in ASCO guidelines.
+- Liver Transplantation: ESMO mentions liver transplantation as an emerging experimental option, which is not mentioned in the ASCO guidelines.
+- Treatment Duration: ASCO recommends a specific total preoperative and postoperative duration of 6 months for perioperative chemotherapy, based on specific clinical trials (EORTC Intergroup trial 40983 and JCOG 0603 trial). ESMO does not define a specific duration.
+- Intra-Arterial Chemotherapy: ESMO suggests intra-arterial chemotherapy as a potential option, whereas ASCO does not mention this treatment.
+- Selective Internal Radiation Therapy (SIRT): ASCO explicitly advises against the routine use of SIRT for unresectable mCRC, while ESMO does not mention this treatment.
+
+In summary, the ESMO and ASCO guidelines share common ground on the importance of surgical resection and the use of ablative techniques for CRLMs, and the potential role of perioperative chemotherapy. Differences arise mainly in the specificity of treatment types and approaches, as well as considerations regarding tumor number or size. A potentially significant divergence is the mention of liver transplantation as an option in ESMO, absent in ASCO, and the express discouragement by ASCO of routine use of SIRT, not mentioned by ESMO.",True,True
+11,treatment options for oligometastatic disease,"Comparison of Oligometastatic Disease (OMD) treatment guidelines between ASCO and ESMO:
+Similarities:
+- Role of Local Therapy/Treatment (LT): Both guidelines agree on the worth of local treatments in the management of OMD. ESMO highlights the use of LT for complete eradication of metastases (C15), while ASCO suggests the use of stereotactic body radiation therapy (SBRT) for certain patients who are not candidates for resection (J Clin Oncol 38:2830-2838, 2020).
+- Systematic team approach: ESMO recommends regular radiological re-evaluations of potential application of surgery or other LT (C15). ASCO insists on multidisciplinary team management, including medical oncology, radiation oncology, hepatobiliary surgery, and interventional radiology expertise (J Clin Oncol 38:2830-2838, 2020).
+
+Differences:
+- Systemic Chemotherapy: ESMO suggests perioperative chemotherapy for patients with 'unfavorable' oncological and 'favorable' surgical criteria (34,41). However, ASCO emphasizes use of systemic chemotherapy, including doublet (FOLFOX or FOLFIRI) or triplet (FOLFOXIRI) chemotherapy, as a common treatment option for mCRC (J Clin Oncol 38:2830-2838, 2020).
+- Local Therapy details: ESMO highlights surgery as the standard and potentially curative treatment for patients with resectable OMD. It also considers thermal ablation (TA) for small metastases or recurrent disease (C15). ASCO instead recommends cytoreductive surgery (CRS) with or without hyperthermic intraperitoneal chemotherapy (HIPEC) for colorectal peritoneal metastases and discourages the routine use of Selective Internal Radiation Therapy (SIRT) for patients with liver metastases (J Clin Oncol 38:2830-2838, 2020).
+- Role of targeted agents: ESMO does not recommend targeted agents during perioperative therapy in patients with upfront resectable metastases (C15), whereas ASCO suggests the use of targeted therapy for specific molecular subtypes (J Clin Oncol 38:2830-2838, 2020).
+- Clinical Trials: Only the ASCO guidelines refer to a specific trial, the SABR-COMET phase II randomized trial, which showed promising long-term results for the use of stereotactic ablative radiotherapy in the comprehensive treatment of oligometastatic cancers (J Clin Oncol 38:2830-2838, 2020).
+
+In summary, both ESMO and ASCO recognize the role of local treatments in managing OMD. However, they differ in details of systemic chemotherapy, specific local therapies, and recommendations on targeted agents. Also, only ASCO refers to a specific trial (SABR-COMET) supporting the use of stereotactic ablative radiotherapy.
+",True,True
+12,the use cases for SIRT therapy,"Comparison of Selective Internal Radiation Therapy (SIRT) treatments according to ESMO and ASCO:
+
+Similarities:
+- SIRT Recognition: Both ESMO and ASCO recognize SIRT as an established treatment option for patients with liver metastases from colorectal cancer.
+- Recommendations on SIRT: Both suggest that SIRT should not be routinely used for metastatic colorectal cancer, but could potentially be beneficial in certain patient populations.
+- Trial Mentioned: Both guidelines mention the results of the EPOCH trial, which demonstrated a significant improvement in Progression-Free Survival (PFS) and Objective Response Rate (ORR) for chemotherapy plus TARE (Transarterial Radioembolisation) as compared to chemotherapy alone in patients with liver-dominant or liver-only disease.
+- The need to base the use of SIRT on individual patient and tumor characteristics: Both institutions agree on this need, however, the factors to be considered are not specified by ASCO.
+
+Differences:
+- Intention of SIRT Use: ESMO finds SIRT useful as a treatment with non-curative intent and possibly as 'consolidation treatment'. ASCO considers SIRT for improving local control and downstaging hepatic metastases to operability.
+- Adverse Events: ASCO explicitly states that the greater rate of adverse events with SIRT compared to chemotherapy alone resulted in a negative recommendation for routine use, whereas ESMO doesn't mention the side effects.
+- The Evaluation of Benefits from SIRT: ESMO states that it is still unclear which patients benefit the most from SIRT and mentions the ongoing clinical trial (OLIVER) that aims to evaluate the impact of SIRT versus chemotherapy alone. ASCO, on the other hand, does not mention ongoing trials but refers to a meta-analysis and a study on the efficacy of SIRT.
+- Frequency of Evaluation: ESMO recommends regular radiological re-evaluations (every 8-12 weeks), whereas ASCO does not provide a specific time frame.
+
+To summarize, both ESMO and ASCO regard SIRT as a possible treatment option for patients with liver metastases from colorectal cancer, but neither suggests it as a routine choice. However, there are minor differences in their considerations and views on the potential benefits and harms of SIRT, which influence their recommendations.",True,True
+13,triplet versus doublet chemotherapy,"Comparison of colorectal cancer treatment strategies between ASCO and ESMO:
+Similarities:
+- Triplet chemotherapy usage: Both guidelines discuss the potential benefits of FOLFOXIRI triplet chemotherapy in advanced colorectal cancer. They highlight that this approach can improve response to treatment, as well as overall and progression-free survival but also notes that its usage is associated with heightened risk of adverse events. 
+- Vulnerable patient groups: Both guidelines caution against triplet treatment for patients who may find the regimen's toxicity difficult to manage, such as older patients or those with significant comorbidities. 
+- Anti-EGFR antibody usage: Both sets of guidelines note the lack of evidence supporting the usage of anti-EGFR monoclonal antibodies in combination with triple chemotherapy, as reflected in the TRIPLETE trial and consonantly ASCO does not recommend anti-EGFR plus triplet therapy, citing increased risk of adverse events.
+- Immune checkpoint inhibitors (ICIs) usage: Both ASCO and ESMO guidelines have mentioned the effectiveness of ICIs in patients with dMMR/MSI-H disease.
+- Treatment for patients with RAS-wt tumors: Both guidelines recommend doublet chemotherapy plus an EGFR inhibitor for patients with left-sided RAS wild-type tumors, with ASCO specifically mentioning that same treatment is not suitable for right-sided tumors. The ESMO recommends in such right-sided cases, chemotherapy plus bevacizumab as the preferred approach.
+
+Differences:
+- Tailoring treatment to patients: ESMO advises monotherapy for patients with major comorbidities, significant age or metastatic disease not amenable to curative treatment, whereas this specific recommendation isn't mentioned by ASCO.
+- Resection strategies: ESMO provides additional recommendations for patients unresponsive to first-line chemotherapy, advocating for not denying resections or ablations of the metastases, pointing out a potential for favorable outcomes. However, ASCO doesn't mention this.
+- BRAF mutation treatment: ESMO noted the successful use of triple therapy (encorafenib, binimetinib, and cetuximab) in a Phase III trial for patients with BRAF V600E mutations. ASCO does not discuss treatment for this subgroup.
+- Details on chemotherapy regimen: ASCO recommends the addition of bevacizumab to either doublet or triplet chemotherapies. Additionally, it offers capecitabine plus oxaliplatin as an alternative regimen for those with initially unresectable MSS or pMMR mCRC, neither of which is specified in the ESMO guidelines. 
+
+According to the above-mentioned comparison, while ESMO and ASCO show significant similarities in the management strategies for mCRC, they also demonstrate some disparities, particularly regarding vulnerable patient groups and the treatment of cases unresponsive to first-line chemotherapy.",True,True
+14,the role of anti EGFR therapies,"Comparison of Metastatic Colorectal Cancer (mCRC) treatment according to Anti-EGFR therapies between ASCO and ESMO:
+
+Similarities:
+-Treatment Effectiveness: Both guidelines indicate that anti-EGFR therapies are effective in treating mCRC, especially in RAS wild-types [ESMO (109,110,144,145), ASCO - Recommendations].
+- RAS Dependency: Both guidelines suggest the presence of RAS mutations can result in resistance to anti-EGFR therapies, hence the need for confirming RAS status before initiation of treatment [ESMO (112,113), ASCO - Qualifying Statements].
+- Adverse Events: Both guidelines highlight that the use of anti-EGFR therapies can increase the risk of experiencing adverse events, such as grade 3-4 skin toxicity and rash [ESMO (131), ASCO - Adverse Events].
+- Trials: Both guidelines reference several clinical trials supporting the use of anti-EGFR therapies, including PRIME, CRYSTAL among others [ESMO, ASCO - References to clinical trials].
+
+Differences:
+- Use with Other Therapies: While ESMO advises against the use of anti-EGFR therapies in combination with anti-VEGF therapies due to no significant improvement in PFS, OS, RR and an increase in adverse events [ESMO (131)], ASCO supports anti-EGFR in combination with doublet chemotherapy as evident by their first-line therapy recommendantion [ASCO - Recommendation 3.1].
+- Aging Population: ESMO suggests that in frail or elderly patients who are unable to tolerate chemotherapy, and have left-sided and RAS-wt tumors, monotherapy with anti-EGFR therapies may be an option [ESMO (120)], while ASCO does not mention any specific recommendations for these patients.
+- Cost-effectiveness: ASCO raises concerns about the cost-effectiveness of anti-EGFR therapy, suggesting that its cost per quality-adjusted life-year (QALY) is often above the generally accepted maximum value [ASCO - Cost-effectiveness analysis]. ESMO does not mention the cost-effectiveness of the therapy.
+
+Summary: Both ESMO and ASCO guidelines align on the effectiveness of anti-EGFR therapies in treating mCRC, particularly in RAS wild-types, as well as their risk in increasing adverse events. They further agree on the need for prior confirmation of RAS status before therapy initiation. However, they fundamentally differ in recommendations regarding the combined use of anti-EGFR therapies with other treatments and offering tailored treatments to elderly patients. ASCO also mentions the cost-effectiveness of the therapy, a point not covered by ESMO.
+",True,True
+15,anti EGFR in comparison to anti VEGF treatments,"Comparison of anti-EGFR and anti-VEGF therapies for metastatic colorectal cancer between ASCO and ESMO:
+Similarities:
+- Recommendations for patients with left-sided tumors: Both institutions suggest that anti-EGFR therapy demonstrates higher effectiveness in RAS-wildtype (wt) patients with left-sided primary tumors.
+- Recommendations for right-sided tumors: Both sets of guidelines indicate that anti-EGFR therapy does not show significant benefits for patients with right-sided primary tumors in terms of PFS and OS.
+- Adverse events: ASCO and ESMO agree that the combination of ChT with anti-EGFR mAbs may increase the occurrence of grade 3 or higher adverse events.
+    
+Differences:
+- Combination of anti-VEGF and anti-EGFR: ESMO directly states that combining anti-VEGF and anti-EGFR mAbs is not superior to ChT plus anti-VEGF alone in terms of PFS, OS, and RR and thus is not recommended due to increased adverse events rates, while ASCO does not have a clear stance on this.
+- Treatment of BRAF-mutant tumors: ESMO explicitly states that anti-EGFR mAbs are not recommended in BRAF-mutant tumors. However, ASCO cites the BEACON trial, which supports the use of BRAF inhibitor encorafenib combined with anti-EGFR mAbs for patients with BRAF V600E –mutant mCRC.
+- Recommendation for second-line treatment: ESMO provides specific treatment options for the second line depending on distinct characteristics (RAS-wt, RAS-mutant, left-sided, right-sided tumors). ASCO does not mention any second-line treatment recommendations.
+- Use of anti-EGFR therapy in maintenance treatment: ESMO does not support using anti-EGFR mAbs for maintenance therapy based on phase III trial data, while ASCO doesn't mention such recommendation. 
+- Use of anti-EGFR therapy in third or further lines of treatment: Only ESMO suggests a specific regimen - a combination of irinotecan plus cetuximab for RAS-wt patients not previously treated with anti-EGFR - in the third or further lines of treatment. ASCO does not provide a similar recommendation.
+
+In summary, both ASCO and ESMO align in their recommendations for patients with left-sided tumors and right-sided tumors and the risk of increased adverse events due to the combination of ChT and anti-EGFR. Major differences lie in the combination of anti-VEGF and anti-EGFR mAbs, treatment of BRAF-mutant tumors, recommendations for the second-line treatment, utilization of anti-EGFR mAbs in the maintenance and third or further lines of treatment.",True,True
+16,uncertainties and open questions in the management of the disease,"Comparison of the management of oligometastatic disease (OMD) in colorectal cancer patients between ASCO and ESMO:
+
+Similarities:
+- Emphasis on patient factors: Both guidelines place a significant emphasis on evaluating patient-related factors, including performance status, overall prognosis, potential for treatment tolerance, individual treatment goals, and personal preferences.
+- Importance of a multidisciplinary team: Both ESMO and ASCO highlight the importance of a multidisciplinary team approach in managing patients with advanced diseases or metastases.
+
+Differences:
+- Definition and Management of OMD: ESMO clearly defines OMD and outlines a comprehensive guideline for managing OMD in mCRC, including surgical and alternative non-surgical treatment options. ASCO does not provide specific guidelines for managing OMD.
+- Role of Staging: ESMO highlights the role of imaging techniques in primary staging, particularly in the context of non-typical liver lesions or potentially resectable liver metastases. The ASCO guidelines do not discuss the importance of staging in their management recommendations.
+- Reliance on Molecular Testing: ESMO emphasises the mandatory requirement of determining the RAS mutational status on a tumor biopsy to guide the best treatment decision. ASCO, however, does not provide specific recommendations for molecular subtype testing.
+- Addressing Disparities and Hardships: ASCO extensively discusses societal and economic factors that could impact a patient’s access to care, including racial and ethnic disparities, financial hardships, and effective patient-provider communication. ESMO does not directly address these non-clinical factors in their guidelines.
+- Role of Clinical Trials: ASCO, in particular, emphasizes the importance of clinical trials in informing medical decisions. ESMO does not make this point in the discussed sections.
+
+In summary, while both guidelines highlight the importance of personalized, multidisciplinary care in managing colorectal cancer patients, there are substantial differences. ESMO provides more detailed guidance focusing on OMD management, staging, and molecular testing while ASCO provides a broader perspective addressing the importance of societal, personal, and economic factors affecting patient care.",True,True
+17,HIPEC,"Comparison of HIPEC treatment option for peritoneal metastasis between ASCO and ESMO:
+Similarities:
+    - Definition of HIPEC: Both ASCO and ESMO define HIPEC as the administration of heated chemotherapy drugs directly into the abdominal cavity during surgery.
+    - References to PRODIGE 7: Both guidelines point to the PRODIGE 7 trial, which did not show an overall survival benefit from adding HIPEC to cytoreductive surgery. 
+    - Risk of Adverse Events: Both ASCO and ESMO acknowledge the risk of complications and high morbidity associated with this treatment. 
+
+Differences:
+    - Opinion about Treatment Effectiveness: ESMO considers the addition of HIPEC to cytoreductive surgery as an experimental procedure and not recommended outside of clinical trials while ASCO suggests its use in selected patients, stating that it led to a significant improvement in overall survival based on the study by Verwaal et al.
+    - Treatment-related Mortality and Adverse Events: ASCO indicates a mortality rate of 8% and grade 3-5 adverse events rate of 65% among patients undergoing CRS plus HIPEC. No exact numbers are given by ESMO.
+    - Use of Additional Chemotherapy Drugs: ASCO's reference to the Verwaal study includes additional adjuvant systemic chemotherapy (fluorouracil plus folinic acid). ESMO does not discuss this combination.
+    - Duration of HIPEC and use of Oxaliplatin: ASCO mentions that the duration of HIPEC in PRODIGE 7 was limited to 30 minutes and that future studies might produce different results with longer durations. It recommends against the use of oxaliplatin-based HIPEC due to harms outweighing benefits. ESMO does not detail the HIPEC duration or specify objections to oxaliplatin.
+
+Summary:
+ESMO and ASCO agree on the high risk of complications implied by HIPEC, however, they differ significantly on the perceived effectiveness of this treatment. Whereas the ESMO is more cautious and sees it as an experimental procedure, ASCO sees a significant improvement in overall survival in selected patients, albeit recognizing an 8% mortality rate and 65% grade 3-5 adverse events. The significant discrepancy in the treatment methods and assessment of HIPEC noted within these guidelines indicates an ongoing need for additional research and patient-specific decision making.",True,True
+18,treatment options for BRAF V600E mutated tumors,"Comparison of BRAF V600E-mutated, pre-treated metastatic colorectal cancer (mCRC) treatment recommendations between ASCO and ESMO:
+
+Similarities:
+- The role of the BEACON trial: Both ESMO and ASCO recommendations are based on significant improvements in overall survival in the BEACON study for patients treated with encorafenib and cetuximab, compared to chemotherapy. This therapy was recommended as the best approach for second and third-line treatment in mCRC patients (ESMO and ASCO).
+- Treatment recommendation: Both guidelines recommend encorafenib plus cetuximab for patients with BRAF V600E-mutant mCRC who previously underwent treatment.
+- BRAF mutation assessment: Both guidelines underline the importance of BRAF mutation status assessment as part of the prognostic evaluation and before starting treatment with encorafenib and cetuximab (ESMO and ASCO).
+
+Differences:
+- The Microsatellite instability-high (MSI-H) status: ESMO explicitly mentions that patients with MSI-H status may benefit from encorafenib and cetuximab upon progression after first-line immunotherapy treatment. This mention is not seen in the ASCO guidelines.
+- Age and Fitness for treatment: ESMO particularly states that triplet combinations therapy including FOLFOXIRI should not be used in patients >75 years old, with performance status 2, or in patients with significant comorbidities. These restrictions are not mentioned in the ASCO guidelines.
+- Consideration of adverse events: ASCO references significantly fewer grade 3 or higher adverse events in the encorafenib plus cetuximab group compared to the control group from the BEACON trial. Additionally, they call for shared decision-making, discussing potential for benefit and risk of harms with the patients. ESMO does not mention these aspects.
+
+In summary, both ESMO and ASCO rely heavily on the results of the BEACON trial in their recommendations for treating mCRC, specifically recommending the use of encorafenib plus cetuximab in certain patients. There are, however, differences in considerations regarding MSI-H status, fitness for certain treatments, and considerations for adverse events and decision making with patients.",True,True
+20,first line treatment in metastatic MSI tumors,"Comparison of first-line treatment in metastatic Microsatellite Instability-High (MSI-H) or deficient mismatch repair (dMMR) colorectal cancer (mCRC) between ASCO and ESMO:
+
+Similarities:
+- Use of Pembrolizumab: Both ESMO and ASCO recommend pembrolizumab as first-line therapy in metastatic MSI-H or dMMR mCRC (ESMO-MCBS v1.1 score: 4; ESCAT: I-A) (Type: Evidence-based, benefits outweigh harms; Evidence quality: Moderate; Strength of recommendation: Strong).
+- Clinical Trial Basis: Both guidelines base this recommendation on the Keynote-177 trial, a phase III trial involving 307 previously untreated dMMR/MSI-H mCRC patients.
+- Outcomes of Keynote-177 Trial: In both guidelines, the Keynote-177 trial was reported to show a progression-free survival (PFS) advantage for pembrolizumab. The drug was administered until progression or up to a maximum of 2 years.
+
+Differences:
+- Adverse Events: ASCO mentions a reduction in the rate of adverse events for patients taking pembrolizumab compared to conventional chemotherapy, while ESMO doesn't mention this finding.
+- Overall Survival Outcome: ASCO mentions that there wasn't a significant difference in overall survival in the Keynote-177 trial, attributing this to a high crossover rate from chemotherapy to pembrolizumab, which is not noted in the ESMO guideline.
+- Follow-Up After First Line Treatment: While ESMO recommends combination of ipilimumab and nivolumab for dMMR/MSI-H tumors progressing after first-line chemotherapy, ASCO is following up promising results from the nonrandomized Checkmate 142 study (featuring the same combination) with a randomized phase III trial - Checkmate 8HW. 
+- Future Guidelines: ASCO expects that complete results from Checkmate 8HW may influence future guidelines, while ESMO doesn't mention upcoming guideline changes based on ongoing trials.
+
+In summary, while both guidelines agree on the primary role of pembrolizumab as a first-line treatment for metastatic MSI-H or dMMR mCRC, their assessment of outcomes (adverse events and overall survival) of the Keynote-177 trial and their follow-up recommendations after first-line therapy differ.",True,True
+22,staging procedures,"Comparison of pancreatic cancer staging and management guidelines between ASCO and ESMO:
+Similarities:
+- Initial staging: Both societies recommend initial staging of pancreatic cancer through the use of a CT scan [ASCO: Evidence quality: intermediate; Strength of recommendation: strong, ESMO: IV, B].
+- Role of EUS: Endoscopic ultrasound is noted to provide additional information and to allow for biopsy of the tumor according to both societies guidelines [ASCO: Evidence quality: intermediate; Strength of recommendation: strong, ESMO: II, A].
+- Use of MRI: It is recommended in both guidelines that MRI should be used in patients with pancreatic cancer, although ESMO suggests that it be especially discussed in cystic lesions and can be left to expert discretion [ASCO: Evidence quality: high; Strength of recommendation: strong, ESMO: IV, C].
+- Use of Positron Emission Tomography: Both societies are consistent in stating that Positron emission tomography/CT does not provide much additional staging information and it isn't frequently recommended [ASCO: Evidence quality: low; Strength of recommendation: strong, ESMO: IV, C].
+- CAD 19-9: It is agreed upon that CAD 19-9 is a useful tumor marker in pancreatic cancer, but ASCO additionally states it should not replace imaging as an assessment [ASCO: Evidence quality: low; Strength of recommendation: strong, ESMO: IV, B].
+
+Differences:
+- Staging laparoscopy: ESMO suggests this in selective patients (resectable or borderline resectable) while ASCO does not specifically mention this [ESMO: IV, C].
+- Biopsy: ESMO recommends percutaneous biopsy of liver metastasis in metastatic disease; percutaneous biopsy of pancreas contraindicated in potentially resectable cases, while specific details about biopsy are missed from ASCO guidelines [ESMO: III, B].
+- Biliary stenting: ESMO advises against pre-operative placement of metal biliary stents due to increased post-operative morbidity, while ASCO does not comment on this [ESMO: III, A].
+- MRI use: ASCO recommends the use of MRI for all patients with pancreatic cancer, while ESMO leaves the decision to expert discretion [ASCO: Evidence quality: high; Strength of recommendation: strong, ESMO: IV, C].
+- Schedule for imaging: ASCO suggests an imaging schedule (CT), however, ESMO does not discuss frequency of imaging [ASCO: Evidence quality: low; Strength of recommendation: strong].  
+
+To summarize, the ASCO and ESMO guidelines for pancreatic cancer staging and management hold notable similarities, underscoring the importance of techniques such as initial CT scans, the use of Endoscopic ultrasound, and the application of MRI. Clear differences are found within the usage of staging laparoscopy and pre-operative placement of metal biliary stents, as well as the specificity of guidelines surrounding the use of biopsy and MRI techniques, and the schedule for imaging.",True,True
+23,resectibility criteria,"Comparison of pancreatic cancer resectability and treatment guidelines between ASCO and ESMO:
+Similarities:
+- Resectability categorization: Both organizations categorize pancreatic tumors as resectable, borderline resectable, or locally advanced/unresectable based on the degree of tumor contact with key vessels such as the superior mesenteric vein/portal vein, common hepatic artery, celiac trunk, and superior mesenteric artery.
+- Resection criteria: Both organizations state that patients with resectable tumors are eligible for upfront surgery. This is defined by no arterial tumor contact and minimal or no contact with superior mesenteric vein/portal vein. 
+- Borderline resection criteria: Both agree that patients with borderline resectable tumors may not be good candidates for upfront surgery, and that neoadjuvant treatment followed by surgery could be the best option when clinical trial participation is not feasible. 
+
+Differences:
+- Definition of resectability: ESMO's guidelines for resectable tumors include no arterial contact and less than 180° contact with the superior mesenteric vein/portal vein, while ASCO mentions no significant radiographic interface with these vessels and a CA 19-9 level suggestive of potentially curable disease.
+- Indications for preoperative therapy: ASCO recommends preoperative therapy for patients who do not meet appropriate criteria for primary resection or have a CA 19-9 level suggestive of disseminated disease, which is not specified by ESMO.
+- Radiographic response: ASCO states that a response from T4 to T3 may not be necessary for surgical consideration in cases of borderline resectable disease and some locally advanced pancreatic cancers after induction chemotherapy, which isn't specified in ESMO's recommendations.
+- Post-resection adjuvant therapy: ASCO recommends considering adjuvant radiotherapy for patients with microscopically positive margins or node-positive disease after completion of systemic adjuvant chemotherapy, which ESMO doesn't mention.
+- Use of minimally invasive techniques & staging laparoscopy: ESMO notes recent studies showing that minimally invasive techniques can reduce morbidity without negatively impacting cancer outcomes and also mentions the potential use of staging laparoscopy, these techniques are not referenced in the ASCO guidelines.
+
+In summary, both ESMO and ASCO describe similar criteria for defining resectability and recommending upfront surgery. However, there are differences in the definitions of resectability, indications for preoperative therapy, requirements for radiographic response, recommendations for post-resection adjuvant therapy, and mentions of minimally invasive techniques and staging laparoscopy.",True,True
+25,lymphadenectomy,"Comparison of pancreatic cancer treatment between ASCO and ESMO:
+Similarities:
+- Multidisciplinary Approach: Both guidelines recognize the importance of a multidisciplinary team for the treatment of localized disease.
+- No Chemoradiation Post-surgery: Both guidelines agree that no chemoradiation should be given to patients after surgery except in clinical trials.
+- Non-respectable Disease: Both guidelines note that resection is not always feasible, with the ESMO indicating this occurs in about 30% - 40% of patients.
+
+Differences:
+- Lymphadenectomy Details: ESMO provides detailed guidelines on standard lymphadenectomy, suggesting ≥15 lymph nodes for adequate pathologic staging, whereas the ASCO guidelines do not specifically mention lymphadenectomy in the context of locally advanced pancreatic cancer.
+- Role of Surgery: ESMO suggests tumor clearance should be given for all seven identified surgical margins. Conversely, ASCO guidelines suggest that surgery may be considered in patients with a dramatic response to systemic therapy and chemoradiation, particularly in those with an excellent performance status.
+- Adjuvant Treatment: ESMO recommends adjuvant treatment with either gemcitabine or 5-FU folinic acid, whereas ASCO does not specify adjuvant treatment in the provided context.
+
+In summary, both ESMO and ASCO emphasize a multidisciplinary approach and agree on the lack of benefit from chemoradiation post-surgery. ESMO provides more specifics on lymphadenectomy and adjuvant treatment, whereas ASCO discusses the role of surgery after systemic therapy and chemoradiation.",True,True
+26,role of adjuvant chemotherapy,"Comparison of adjuvant treatment for pancreatic cancer between ASCO and ESMO:
+Similarities:
+- Adjuvant chemotherapy: Both guidelines recommend adjuvant chemotherapy as beneficial for all patients who underwent resection for pancreatic adenocarcinoma assuming complete recovery and in the absence of medical or surgical contraindications.
+- Recurrence-free survival: Both guidelines acknowledge that adjuvant chemoradiation did not significantly affect recurrence-free survival. The ESPAC-1 trial pointed out a potentially deleterious effect, while ASCO guidelines suggest that adjuvant chemoradiation may be offered under certain conditions, though the benefits are uncertain pending results from an ongoing international RCT.
+
+Differences:
+- Survival benefit: ESMO and ASCO guidelines differ in their sequencing and recommended chemotherapy regimen. ESMO guidelines infer a survival benefit for gemcitabine (based on the ESPAC-3 and CONKO-001 trials) and 5-FU/folinic acid (based on the ESPAC-1 and ESPAC-3 trials). Meanwhile, ASCO guidelines favor the modified combination of 5-FU, oxaliplatin, and irinotecan (mFOLFIRINOX) based on the PRODIGE 24/CCTG PA.6 trial.
+- Duration of treatment: ESMO guidelines suggest administering gemcitabine for 24 weeks, while ASCO guidelines recommend giving 12 cycles of mFOLFIRINOX every 14 days.
+- Postoperative Treatment: ASCO recommends considering adjuvant chemoradiation for those with positive margins (R1) and/or node-positive disease. However, ESPAC-1 trial (presented in ESMO) reports a deleterious effect with chemoradiation. ESMO does not specifically mention the use of adjuvant chemoradiation in the case of positive margins or node-positive disease.
+
+In summary, there is agreement between the ESMO and ASCO guidelines that adjuvant chemotherapy is beneficial for all patients who underwent a resection for pancreatic adenocarcinoma, assuming complete recovery and no contraindications but diverge on the specific chemotherapy regimen and the potential use of chemoradiation.",True,True
+27,adjuvant chemoradiation,"Comparison of Pancreatic Cancer Treatment Guidelines between ASCO and ESMO:
+Similarities:
+- Chemoradiation after surgery:
+Both ASCO and ESMO acknowledge the lack of substantial survival benefits following adjuvant chemoradiation after pancreatic resection, as was found in the ESPAC-1 and LAP 07 trials, among others. 
+
+- Obsolete chemoradiation regimen:
+Both associations indicate that some chemoradiation regimens, such as the one combining 50Gy, 5-FU, and cisplatin have been deemed obsolete due to more advantageous survival rates from alternative treatments, such as gemcitabine alone.
+
+Differences:
+- Indication for chemoradiation:
+ESMO advises against the use of adjuvant chemoradiation following surgery, even for R1 patients, except in the context of clinical trials. In contrast, ASCO suggests that adjuvant chemoradiation could be offered to R1 and/or node-positive post-operative patients after systemic adjuvant chemotherapy, as well as to patients presenting with locally unresectable disease.
+
+- Chemotherapy regimen:
+ESMO promotes capecitabine and radiotherapy as the only recommendable combination, whereas ASCO suggests the modified combination regimen of 5-fluorouracil, oxaliplatin, and irinotecan (mFOLFIRINOX) as a preferred treatment following surgery.
+
+- Management of locally advanced pancreatic cancer (LAPC):
+ASCO suggests that CRT or SBRT could be offered as an alternative to continuation of chemotherapy alone in patients with LAPC after 6 months of induction therapy, or in cases of local disease progression without evidence of systemic spread. ESMO lacks specific recommendations on the use of CRT or SBRT for LAPC after 6 months of induction chemotherapy or in cases of local disease progression without systemic spread but emphasizes the lack of survival improvement with chemoradiation.
+
+- Use of stereotactic body radiation therapy (SBRT):
+ASCO indicates that SBRT is becoming increasingly relevant and may see more use as ongoing randomized trials are completed. ESMO does not specifically mention SBRT in its recommendations.
+
+In summary, ESMO and ASCO differ significantly in their recommendations for the use of adjuvant chemoradiation and preferred chemotherapy regimens. They also have differing views on the management of LAPC, with ASCO providing more detailed recommendations that also include potential use of SBRT.",True,True
+28,management of borderline resectable tumors,"Comparison of pancreatic cancer treatment guidelines between ASCO and ESMO:
+
+Similarities:
+- Borderline Resectability: Both ESMO and ASCO agree that borderline resectable tumors are complicated cases that do not fit for upfront surgery due to the probability of R1 resection. They also give a preference for patient inclusion in clinical trials.
+- Neoadjuvant Therapy: Both agree on the use of chemotherapy before surgery and tumor resection based on the good response; however, the specific regimen details differ.
+- Surgery: Both sets of guidelines mention the use of surgery. ESMO specifically discusses surgical types such as the Whipple procedure and dissection of the SMA, while ASCO lacks such specifics.
+
+Differences:
+- Chemoradiotherapy (CRT): While ESMO clearly mentions that no CRT should be given to patients after surgery except in clinical trials, ASCO suggests CRT or SBRT can not only be used after induction chemotherapy but may also be offered upfront based on the patient and clinician's preference, specifically for LAPC patients.
+- SBRT: ASCO introduces the use of SBRT as an alternative to CRT, citing emerging evidence of its potential effectiveness in both BRPC and LAPC. ESMO does not mention SBRT.
+- Margin Definition and Surgical Strategy: ESMO gives specific recommendations on surgical strategy and definitions for R1, while ASCO does not provide such details.
+- Adjuvant Therapy: ESMO explicitly mentions gemcitabine or 5-FU/folinic acid as options for adjuvant treatment, while ASCO does not specifically discuss adjuvant treatment options.
+
+Clinical Trials:
+- The ESMO recommendations are based on few retrospective studies and two meta-analyses, and no specific trials are mentioned.
+- ASCO cites smaller, non-randomized studies and mentions an upcoming phase III RCT (by the Alliance cooperative group). 
+
+In summary, both ESMO and ASCO largely agree on the challenges of borderline resectable tumors and the importance of neoadjuvant chemotherapy. The significant points of divergence involve the use of chemoradiation and inclusion of SBRT in the treatment pathway, with ASCO acknowledging these as options while ESMO advises against the routine use of chemoradiation outside of clinical trials.",True,True
+30,treatment recommendations in the metastatic situation,"Comparison of pancreatic cancer treatment guidelines between ASCO and ESMO:
+
+Similarities:
+  - Performance status assessment: Both guidelines emphasise the importance of evaluating patients' performance status prior to deciding treatment options.
+  - Management of symptoms: Both organisations place importance on symptom management and supportive care, which includes pain control and biliary stenting.
+  - Use of chemotherapy: The use of gemcitabine and other chemotherapy regimens is recommended by both for certain patient profiles.
+  - Clinical trials: Both suggest pursuing clinical trials for disease advancement or uncertain cases. 
+  
+Differences:
+  - Specific chemotherapy regimens: ESMO recommends the use of FOLFIRINOX regimen, especially in metastatic disease. The ASCO recommends initial systemic therapy with combination regimens for most patients, and advises targeted therapies for patients with genomic alterations.
+  - Monitoring and check-up: ESMO does not find evidence that regular follow-up after therapy with curative intent is useful, while ASCO does not mention this aspect.
+  - Handling of disease progression: ASCO gives specific recommendations for chemoradiotherapy (CRT) or stereotactic body radiation therapy (SBRT) for local disease progression and considers pattern of progression (locoregional vs. disseminated). ESMO does not mention specific treatments for disease progression beyond saying there's no specific treatment for poor prognostic patients.
+  - Specific medicines for genotypic variants: ASCO provides recommendation for the use of olaparib in patients with germline BRCA mutations that respond to platinum-based chemotherapy and the use of larotrectinib or entrectinib in patients with tumors harboring NTRK fusions. ESMO does not discuss treatment options based on genotypic characteristics.
+
+To summarize, both ESMO and ASCO guidelines agree on the importance of evaluating patient performance status, aggressive symptom management, and utilization of chemotherapy. However, they diverge on the preferred chemotherapy regimen, the utility of regular follow-ups post therapy with curitative intent, treatment plan for disease progression, and the incorporation of genotype-specific therapy.",True,True
+31,use of erlotinib and other targeted therapies,"Comparison of pancreatic cancer treatment guidelines between ASCO and ESMO:
+
+Similarities:
+- Use of Chemotherapy: Both guidelines suggest chemotherapy as a treatment option for pancreatic cancer. Gemcitabine is mentioned in both scenarios, either alone or in combination with other agents.
+- Patient Performance Status and Treatment: Both guidelines recommend that treatment should be individualized to the patient, considering factors such as performance status and disease stage.
+
+Differences:
+- Erlotinib Use: ESMO describes the limited use of erlotinib in pancreatic cancer due to inadequacy in improving survival and its inefficacy on locally advanced disease. Erlotinib is not discussed in the context provided by ASCO.
+- Other Targeted Therapies: ESMO mentions that targeted therapies like bevacizumab, cetuximab have shown disappointing results. ASCO, on the other hand, recommends the use of newer targeted therapies like larotrectinib and entrectinib for tumours with NTRK fusions and olaparib for germline BRCA-mutated metastatic adenocarcinoma.
+- Biomarker Testing: ESMO mentions that there are no relevant biomarkers for use in clinical decision-making, while ASCO emphasizes the importance of genomic testing as part of an initial assessment.
+- Personalized Medicine: ESMO states that there is no role for personalized medicine in pancreatic cancer at present. ASCO does not discuss personalized medicine, but their emphasis on genomic testing suggests a more individualized approach to treatment.
+- Second-Line Therapy: ESMO suggests considering 5-FU, folinic acid, and oxaliplatin for advanced gemcitabine-refractory pancreatic cancer, while ASCO proposes gemcitabine or fluorouracil as second-line therapies for patients with burdensome comorbidities or an ECOG PS of 2.
+
+In summary, while both guidelines acknowledge the role of chemotherapy in pancreatic cancer treatment, they differ substantially in the use and importance of targeted therapies and biomarker testing in treatment decision making. The ASCO guideline is more inclined towards genomic testing and targeted therapy, which suggests a more individualized approach, while the ESMO guideline does not prominently support either.",True,True
+32,use cases of FOLFIRINOX and modified FOLFIRINOX (mFOLFIRINOX),"Comparison of FOLFIRINOX treatment recommendations between ASCO and ESMO:
+Similarities:
+- Preference for Patients with good performance status: Both guidelines suggest the use of FOLFIRINOX treatments for patients with a good performance status, specifically an ECOG score of 0 or 1. 
+- First line treatment: Both ASCO and ESMO recommend FOLFIRINOX as a first line treatment option. 
+
+Differences:
+- Use in resected pancreatic adenocarcinoma: Whereas ASCO recommends the modified FOLFIRINOX regimen as preferred treatment for resected pancreatic adenocarcinoma, ESMO provides no mention of such a recommendation.
+- Use in Borderline Resectable Lesions: ESMO mentions strong results with FOLFIRINOX treatment for borderline resectable lesions, while ASCO provides no similar discussion.
+- Discussion on BRCA1/BRCA2 mutations: ESMO suggests that FOLFIRINOX can be particularly effective for pancreatic cancer patients with BRCA1 or BRCA2 mutations; no such note is made in the ASCO guidelines.
+- Doublet Therapy with Gemcitabine and Capecitabine or Monotherapy: ASCO finds these alternatives acceptable, but ESMO does not mention these therapies.
+- Second-line Therapy: ASCO recommends gemcitabine plus nab-paclitaxel as a second-line therapy for patients initially treated with FOLFIRINOX, while ESMO recommends stopping treatment if there is an observed RECIST progression and discussing second-line treatment without specifying options. 
+- Use of Clinical Trial Results: ASCO cites the results of the PRODIGE 24/CCTG PA.6 trial in its discussion of mFOLFIRINOX treatment, while ESMO does not.
+
+In conclusion, ASCO and ESMO guidelines both recommend the use of FOLFIRINOX treatment for patients with good performance status, however, there are significant differences between them in the use of this regimen with regard to resected pancreatic adenocarcinoma, borderline resectable lesions, patients with BRCA1/BRCA2 mutations, second-line therapy, and the incorporation of clinical trial results.",True,True
+34,role of PARP inhibitors,"Comparison of the use of PARP inhibitors in pancreatic cancer between ASCO and ESMO:
+Similarities:
+- Research Focus: Both ASCO and ESMO emphasize that ongoing research and clinical trials are critical in establishing the effectiveness and safety of PARP inhibitors in the treatment of pancreatic cancer.
+- Target Population: Both guidelines agree that patients with specific genetic mutations, such as BRCA1 or BRCA2 mutations, could be more sensitive to PARP inhibitors.
+
+Differences:
+- Recommendation: ASCO states a clear recommendation for the use of the PARP inhibitor olaparib as a maintenance therapy for adults with germline BRCA mutations and metastatic pancreatic adenocarcinoma whose disease has not progressed on at least 16 weeks of first-line platinum-based chemotherapy. This recommendation is later supported by Golan et al., 2019's Findings indicating that olaparib significantly improved progression-free survival. However, ESMO suggests that they are still conducting investigations in clinical trials and hence have not established a role for personalized medicine like PARP inhibitors in the treatment of pancreatic cancer.
+- Clinical Trial Evidence: Golan et al., 2019's POLO trial provided evidence of the efficacy of olaparib in the ASCO guidelines. However, no specific clinical trial data related to pancreatic adenocarcinoma and PARP inhibitors is provided in the ESMO guidelines.
+- Treatment Alternatives: The ASCO guidelines also mention ongoing research into agents like LOXO-195 and TPX-00005 to overcome resistance to first-generation TRK inhibitors, something absent in the ESMO guidelines.
+
+In summary, both ASCO and ESMO agree on the potential of PARP inhibitors for pancreatic cancer patients with specific genetic mutations, but they differ significantly on the current stage of evidence and the clinical implementation of these findings. ASCO already recommends olaparib as a maintenance therapy in specific situations, based on the POLO trial results, whereas ESMO states that more research is necessary. Furthermore, ASCO provides details about ongoing research into alternative treatments, which is not covered by ESMO.",True,True

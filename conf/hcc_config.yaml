@@ -1,0 +1,17 @@
+documents_dir: /mnt/bulk/dferber/catchy/LLM_Vector/Vector_LLM_for_Medical_QA/Data/HCC
+model_name: gpt-4
+
+chunk_size: 500
+overlap: 100
+
+topics:
+  - recommended treatment options for first line therapy in advanced tumors
+  - precise recommendations and use cases of Atezolizumab + Bevacizumab
+  - second line treatments 
+  - use of cabozantinib
+  - use of regorafenib
+  - use of ramucirumab
+  - recommended treatment for BCLC B in the advanced setting
+  - recommended treatment for BCLC C in the advanced setting
+  - open questions and uncertainties regarding treatment recommendations
+  - future treatment perspectives

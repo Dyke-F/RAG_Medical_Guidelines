@@ -1,0 +1,17 @@
+documents_dir: /mnt/bulk/dferber/catchy/LLM_Vector/Vector_LLM_for_Medical_QA/Data/mCRC
+model_name: gpt-4
+
+chunk_size: 500
+overlap: 100
+
+topics:
+  - management of potentially curative resectable liver metastases
+  - treatment options for oligometastatic disease
+  - the use cases for SIRT therapy
+  - triplet versus doublet chemotherapy
+  - the role of anti EGFR therapies
+  - anti EGFR in comparison to anti VEGF treatments
+  - uncertainties and open questions in the management of the disease
+  - HIPEC
+  - treatment options for BRAF V600E mutated tumors
+  - first line treatment in metastatic MSI tumors
