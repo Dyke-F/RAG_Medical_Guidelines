@@ -1,5 +1,5 @@
 # Medical Image In-Context Learning (ICL) with GPT-4V 
-Attention: This repository is currently under construction. Usage might change in the future. 
+This repository is currently under construction. Usage might change in the future. 
 
 ## General Setup Instructions
 
